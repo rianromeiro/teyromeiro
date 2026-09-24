@@ -1,0 +1,34 @@
+PAINEL DO PORTFÓLIO — TEY ROMEIRO ARQUITETURA
+=============================================
+
+COMO ACESSAR
+  Endereço do site + /admin   (ex.: https://rianromeiro.github.io/teyromeiro/admin)
+  Senha: ARILEIZE
+  Não existe link para o painel no site.
+
+CONFIGURAÇÃO INICIAL (uma única vez, feita por você)
+  1. Abra https://github.com/settings/personal-access-tokens/new
+  2. Token name: Painel site Tey · Expiration: a maior opção disponível
+  3. Repository access: "Only select repositories" → teyromeiro
+  4. Permissions → Repository permissions → Contents: "Read and write"
+  5. Generate token → copie o código (começa com github_pat_)
+  6. Abra o /admin do site, cole a chave, digite a senha duas vezes e salve.
+  Pronto: o painel cria o arquivo admin/key.json com a chave TRANCADA pela senha.
+  A partir daí, só a senha é necessária (em qualquer computador ou celular).
+  Se a chave expirar, repita os passos e use "Configurar chave de acesso" no login.
+
+COMO FUNCIONA
+  Ao salvar, o painel grava fotos e textos direto no repositório do GitHub.
+  O site se atualiza sozinho em 1–2 minutos.
+
+O QUE DÁ PARA FAZER
+  • Criar, editar, ocultar, reordenar e excluir projetos
+  • Enviar fotos (otimizadas automaticamente), escolher capa, foto alternativa
+    e o enquadramento da capa
+  • Nome, categoria, localização, ano, área, status, escopo, texto e ficha técnica
+  • Marcar projetos para aparecer na abertura do site
+  • HISTÓRICO: cada salvamento vira uma versão; dá para restaurar qualquer uma.
+
+ARQUIVOS
+  Suba a pasta inteira no repositório (preview.html é opcional — só serve para a prévia).
+  Não apague a pasta img/uploads (é onde as fotos novas entram).
