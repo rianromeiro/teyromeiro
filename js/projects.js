@@ -148,11 +148,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/renderscene-15-439c59ea.webp",
+        "src": "img/uploads/renderscene-4-a9c1fa7e.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/renderscene-4-a9c1fa7e.webp",
+        "src": "img/uploads/renderscene-15-439c59ea.webp",
         "alt": ""
       },
       {
@@ -165,10 +165,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/renderscene-28-c3e66fb5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-29-d1eb2f9d.webp",
         "alt": ""
       }
     ],
