@@ -95,12 +95,12 @@ window.PROJECTS = [
       "Interiores",
       "Paisagem"
     ],
-    "cover": "img/angra-deck.jpg",
+    "cover": "img/uploads/renderscene-38-2d5ae1a9.webp",
     "hover": "img/angra-frontal.jpg",
-    "heroPos": "50% 60%",
+    "heroPos": "50% 50%",
     "lead": "Um projeto que nasce do encontro entre arquitetura, natureza e mar.",
     "text": [
-      "Depois da casa do caseiro, a casa principal foi pensada para a mesma família — valorizando a paisagem, a leveza dos materiais e a experiência de viver um lugar tão especial.",
+      "Um projeto que nasce do encontro entre arquitetura, natureza e mar, valorizando a paisagem, a leveza dos materiais e a experiência de viver esse lugar tão especial.",
       "A casa se acomoda à encosta em patamares. Na base, um volume terroso abriga as áreas de convívio abertas para o gramado e para o deck sobre o mar; acima, os terraços ajardinados e as venezianas de madeira filtram a luz e a brisa, enquanto o telhado de telha cerâmica sobre estrutura aparente de madeira faz a ponte com a arquitetura tradicional da região.",
       "Cada vista, cada abertura e cada ambiente foram pensados para integrar a casa à ilha de forma natural e acolhedora."
     ],
@@ -134,6 +134,42 @@ window.PROJECTS = [
       {
         "src": "img/angra-deck.jpg",
         "alt": "Deck de madeira sobre o mar com a casa ao fundo"
+      },
+      {
+        "src": "img/uploads/renderscene-38-2d5ae1a9.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-39-81698fc8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-40-891c887a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-15-439c59ea.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-4-a9c1fa7e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-21-0b67fe54.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-22-e1e78a60.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-28-c3e66fb5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-29-d1eb2f9d.webp",
+        "alt": ""
       }
     ],
     "published": true,
