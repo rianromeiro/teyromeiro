@@ -109,7 +109,7 @@
       let fired = false;
       const done = () => { if (!fired) { fired = true; pre.classList.add("is-done"); } };
       const t = Date.now();
-      const finish = () => setTimeout(done, Math.max(0, 1100 - (Date.now() - t)));
+      const finish = () => setTimeout(done, Math.max(0, 1600 - (Date.now() - t)));
       if (document.readyState === "complete") finish(); else addEventListener("load", finish);
       setTimeout(done, 2800);
     }
