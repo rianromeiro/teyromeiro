@@ -308,18 +308,18 @@ window.PROJECTS = [
     "gallery": [
       {
         "src": "img/terahub-frente.jpg",
-        "layout": "pair",
-        "alt": "Fachada frontal com brises verticais de madeira e jardineiras em todos os pavimentos"
+        "alt": "Fachada frontal com brises verticais de madeira e jardineiras em todos os pavimentos",
+        "layout": "pair"
       },
       {
         "src": "img/terahub-lateral.jpg",
-        "layout": "pair",
-        "alt": "Vista em perspectiva do edifício a partir da rua arborizada"
+        "alt": "Vista em perspectiva do edifício a partir da rua arborizada",
+        "layout": "pair"
       },
       {
         "src": "img/terahub-posterior.jpg",
-        "layout": "tall",
-        "alt": "Fachada posterior com terraços ajardinados e caixilharia em vidro"
+        "alt": "Fachada posterior com terraços ajardinados e caixilharia em vidro",
+        "layout": "tall"
       },
       {
         "src": "img/terahub-praca.webp",
@@ -360,6 +360,14 @@ window.PROJECTS = [
       {
         "src": "img/terahub-diretoria.webp",
         "alt": "Estar da diretoria com salas envidraçadas e estantes em madeira iluminadas"
+      },
+      {
+        "src": "img/uploads/render-09-8f050802.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-01-799f65e3.webp",
+        "alt": ""
       }
     ],
     "published": true,
