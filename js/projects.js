@@ -170,6 +170,22 @@ window.PROJECTS = [
       {
         "src": "img/uploads/renderscene-29-158ae3ab.webp",
         "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-31-a814f910.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-46-c5a14dc1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-47-2e027225.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-44-7e2c8e7d.webp",
+        "alt": ""
       }
     ],
     "published": true,
