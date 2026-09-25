@@ -453,6 +453,10 @@ window.PROJECTS = [
       {
         "src": "img/uploads/nao-e-ia-695f1683.webp",
         "alt": ""
+      },
+      {
+        "src": "img/uploads/editada-img-0184-3294a501.webp",
+        "alt": ""
       }
     ],
     "published": true,
