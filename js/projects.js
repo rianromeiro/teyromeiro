@@ -166,6 +166,10 @@ window.PROJECTS = [
       {
         "src": "img/uploads/renderscene-28-c3e66fb5.webp",
         "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-29-158ae3ab.webp",
+        "alt": ""
       }
     ],
     "published": true,
