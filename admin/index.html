@@ -4,6 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex, nofollow">
+  <script>
+    /* Garante a barra final (/admin/) para os arquivos do painel carregarem em qualquer hospedagem */
+    if (!location.pathname.endsWith("/") && !/\.html?$/.test(location.pathname)) location.replace(location.pathname + "/" + location.search + location.hash);
+  </script>
   <title>Painel — Tey Romeiro Arquitetura</title>
   <meta name="theme-color" content="#faf8f5">
   <link rel="preconnect" href="https://fonts.googleapis.com">
