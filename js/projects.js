@@ -383,9 +383,8 @@ window.PROJECTS = [
       "Fachada",
       "Área de lazer"
     ],
-    "cover": "img/realpark-lazer.jpg",
-    "hover": "img/realpark-tey.jpg",
-    "heroPos": "50% 55%",
+    "cover": "img/realpark-tey.jpg",
+    "heroPos": "50% 50%",
     "lead": "Honrar uma arquitetura singular e trazê-la para a atualidade com leveza.",
     "text": [
       "Era uma construção cheia de personalidade: vigas curvas, paredes arredondadas, tijolinhos de vidro — tudo envolto por um branco que deixava transparecer a alma contemporânea do projeto. A primeira intenção foi honrar essa arquitetura, seus volumes e suas curvas, com clareza volumétrica.",
@@ -426,6 +425,34 @@ window.PROJECTS = [
       {
         "src": "img/realpark-lazer.jpg",
         "alt": "Varanda com poltronas de fibra natural e maciço de helicônias"
+      },
+      {
+        "src": "img/uploads/img-0035-a36b7439.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0037-0e6ec833.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0080-309cbce3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0102-cf4027e0.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0120-b92ea3fe.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0183-03c028ed.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/nao-e-ia-695f1683.webp",
+        "alt": ""
       }
     ],
     "published": true,
