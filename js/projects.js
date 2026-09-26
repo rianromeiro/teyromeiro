@@ -384,6 +384,7 @@ window.PROJECTS = [
       "Área de lazer"
     ],
     "cover": "img/realpark-tey.jpg",
+    "hover": "img/uploads/editada-img-0184-3294a501.webp",
     "heroPos": "50% 50%",
     "lead": "Honrar uma arquitetura singular e trazê-la para a atualidade com leveza.",
     "text": [
