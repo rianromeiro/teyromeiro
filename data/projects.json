@@ -1,5 +1,108 @@
 [
   {
+    "slug": "casa-m-r",
+    "title": "Casa M & R",
+    "place": "Praia Barra do Sahy - Litoral Norte - SP",
+    "category": "Residencial",
+    "area": "100,00m²",
+    "status": "Em obra",
+    "tags": [
+      "Interiores"
+    ],
+    "cover": "img/uploads/26-98c90d00.webp",
+    "heroPos": "50% 50%",
+    "lead": "Mais integração, mais encontros, mais vida!",
+    "text": [
+      "Uma casa de praia onde receber faz parte da sua essência . O desafio deste projeto foi transformar uma área de lazer compartimentada em um espaço fluido, integrado e acolhedor. A proposta conectou cozinha, sala, varanda gourmet e jardim com spa, ampliando a percepção dos ambientes e criando uma circulação mais livre e funcional. Cada espaço foi pensado para valorizar a convivência, trazendo conforto tanto para os momentos tranquilos em família quanto para os encontros animados . O resultado é uma arquitetura que  amplia possibilidades, aproxima pessoas e transforma a casa em um verdadeiro lugar de encontros."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ , @arquitetamariaeduardaw , @mttoires.au"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/02-afa88fe3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/04-771ab0e2.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/06-52447fc1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/03-742c2538.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/18-3c8f6759.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/26-98c90d00.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/27-38615ba7.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/11-5785eb4b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/16-48b8b231.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/17-c8b28c93.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/08-889119d7.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/09-02ff7b37.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/25-23e6e244.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/22-e216b105.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/24-beeba0a4.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/05-30cff254.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/14-a59a3f0e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/13-eab66830.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "residencia-c-l",
     "title": "Residência C & L",
     "place": "Mogi das Cruzes - SP",
