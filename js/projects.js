@@ -527,6 +527,7 @@ window.PROJECTS = [
       "Arquitetura"
     ],
     "cover": "img/uploads/2-9af539bd.webp",
+    "hover": "img/uploads/4-401053b3.webp",
     "heroPos": "56% 62%",
     "lead": "O luxo aqui é respirar fundo e sentir-se parte do todo.",
     "text": [
@@ -548,11 +549,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/5-f35b08ca.webp",
+        "src": "img/uploads/6-f2a99300.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/6-f2a99300.webp",
+        "src": "img/uploads/5-f35b08ca.webp",
         "alt": ""
       },
       {
