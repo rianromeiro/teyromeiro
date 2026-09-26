@@ -463,6 +463,59 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "vila-real-park",
+    "title": "Vila Real Park",
+    "location": "Conjunto residencial",
+    "category": "Residencial",
+    "tags": [
+      "Arquitetura",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/vila-rua.jpg",
+    "hover": "img/vila-aerea.jpg",
+    "heroPos": "50% 70%",
+    "lead": "Mais do que projetar residências, o desafio foi criar um lugar de convivência.",
+    "text": [
+      "Desenvolvido para uma mesma família, o projeto nasceu do desejo de manter a proximidade entre os seus membros sem abrir mão da individualidade de cada residência.",
+      "Arquitetura e paisagismo foram concebidos em conjunto para construir uma experiência integrada, onde os limites se tornam mais sutis e a natureza assume o papel de conexão entre os espaços.",
+      "Sem barreiras visuais marcantes, os jardins se entrelaçam, os percursos se conectam e a paisagem cria unidade entre as diferentes construções — promovendo privacidade, convivência e bem-estar."
+    ],
+    "credits": [
+      [
+        "Arquitetura",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@matheusaroge"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/vila-aerea.jpg",
+        "alt": "Vista aérea do conjunto de residências com jardins integrados e piscina"
+      },
+      {
+        "src": "img/vila-encosta.jpg",
+        "alt": "As residências acompanhando a curva da rua e a topografia"
+      },
+      {
+        "src": "img/vila-aerea-2.jpg",
+        "alt": "Vista aérea das entradas das residências e dos acessos ajardinados"
+      },
+      {
+        "src": "img/vila-rua.jpg",
+        "alt": "Fachadas voltadas para a rua com escadarias e canteiros floridos"
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "casa-m-r",
     "title": "Casa M & R",
     "place": "Praia Barra do Sahy - Litoral Norte - SP",
@@ -564,59 +617,6 @@ window.PROJECTS = [
     ],
     "published": true,
     "featured": false
-  },
-  {
-    "slug": "vila-real-park",
-    "title": "Vila Real Park",
-    "location": "Conjunto residencial",
-    "category": "Residencial",
-    "tags": [
-      "Arquitetura",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/vila-rua.jpg",
-    "hover": "img/vila-aerea.jpg",
-    "heroPos": "50% 70%",
-    "lead": "Mais do que projetar residências, o desafio foi criar um lugar de convivência.",
-    "text": [
-      "Desenvolvido para uma mesma família, o projeto nasceu do desejo de manter a proximidade entre os seus membros sem abrir mão da individualidade de cada residência.",
-      "Arquitetura e paisagismo foram concebidos em conjunto para construir uma experiência integrada, onde os limites se tornam mais sutis e a natureza assume o papel de conexão entre os espaços.",
-      "Sem barreiras visuais marcantes, os jardins se entrelaçam, os percursos se conectam e a paisagem cria unidade entre as diferentes construções — promovendo privacidade, convivência e bem-estar."
-    ],
-    "credits": [
-      [
-        "Arquitetura",
-        "Tey Romeiro Arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@matheusaroge"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/vila-aerea.jpg",
-        "alt": "Vista aérea do conjunto de residências com jardins integrados e piscina"
-      },
-      {
-        "src": "img/vila-encosta.jpg",
-        "alt": "As residências acompanhando a curva da rua e a topografia"
-      },
-      {
-        "src": "img/vila-aerea-2.jpg",
-        "alt": "Vista aérea das entradas das residências e dos acessos ajardinados"
-      },
-      {
-        "src": "img/vila-rua.jpg",
-        "alt": "Fachadas voltadas para a rua com escadarias e canteiros floridos"
-      }
-    ],
-    "published": true,
-    "featured": true
   },
   {
     "slug": "chacara-k-a",
