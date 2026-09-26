@@ -41,15 +41,15 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/9-929c9803.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/11-b2808621.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/12-1b67b12a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/9-929c9803.webp",
         "alt": ""
       },
       {
