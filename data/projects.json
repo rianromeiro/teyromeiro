@@ -103,6 +103,90 @@
     "featured": false
   },
   {
+    "slug": "casa-maya",
+    "title": "Casa Maya",
+    "location": "Riviera de São Lourenço, SP",
+    "place": "Riviera de São Lourenço, SP",
+    "category": "Residencial",
+    "status": "À venda",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo"
+    ],
+    "cover": "img/maya-piscina.webp",
+    "hover": "img/maya-fachada.webp",
+    "heroPos": "50% 62%",
+    "lead": "Uma casa projetada com olhar de quem vai morar — olhar de dono.",
+    "text": [
+      "Criada para ser palco de encontros, de conversas demoradas, de um drink no final do dia. Um lugar onde o cotidiano vira ritual, transformando cada momento em algo especial.",
+      "Tramas, texturas e materiais naturais acolhem: a madeira do pergolado e do deck, as paredes de pedra, as fibras e a vegetação tropical que atravessa os ambientes. Na fachada, os cobogós deixam a luz vazar, criando movimento e sombras ao longo do dia.",
+      "Um espaço que desperta sensações, que convida a sentir, tocar, respirar. Para quem for viver nela, a Casa Maya é experiência — não apenas arquitetura."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "Tey Romeiro Arquitetura"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/maya-fachada.webp",
+        "alt": "Fachada com cobogós, painéis de madeira e jardineira no pavimento superior"
+      },
+      {
+        "src": "img/maya-fachada-2.webp",
+        "alt": "Fachada vista da rua, com palmeiras e caminho de pisantes"
+      },
+      {
+        "src": "img/maya-jardim-rede.webp",
+        "alt": "Jardim lateral com rede entre as palmeiras e luminárias de fibra"
+      },
+      {
+        "src": "img/maya-fundos.jpg",
+        "alt": "Vista dos fundos da casa com a piscina, o pergolado e o jardim tropical"
+      },
+      {
+        "src": "img/maya-piscina-deck.webp",
+        "alt": "Deck de madeira com espreguiçadeiras junto à piscina"
+      },
+      {
+        "src": "img/maya-pergolado.webp",
+        "alt": "Mesa de jantar externa sob o pergolado coberto por trepadeiras"
+      },
+      {
+        "src": "img/maya-piscina.webp",
+        "alt": "Piscina e pergolado de madeira com a sala integrada ao fundo"
+      },
+      {
+        "src": "img/maya-vista-porta.webp",
+        "alt": "Vista da área da piscina emoldurada pela porta de correr"
+      },
+      {
+        "src": "img/maya-piscina-interna.webp",
+        "alt": "Piscina vista a partir da área coberta, com palmeira-laca ao fundo"
+      },
+      {
+        "src": "img/maya-jantar.jpg",
+        "alt": "Sala de jantar com luminária de fibra natural e jardins nas laterais"
+      },
+      {
+        "src": "img/maya-estar.webp",
+        "alt": "Estar com sofá terracota, parede de pedra e aparador em mármore verde"
+      },
+      {
+        "src": "img/maya-estar-escada.jpg",
+        "alt": "Estar junto à escada, com cobogós e jardim interno"
+      },
+      {
+        "src": "img/maya-cozinha.jpg",
+        "alt": "Cozinha em madeira clara com bancada curva e mármore verde"
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "residencia-c-l",
     "title": "Residência C & L",
     "place": "Mogi das Cruzes - SP",
@@ -189,90 +273,6 @@
     ],
     "published": true,
     "featured": false
-  },
-  {
-    "slug": "casa-maya",
-    "title": "Casa Maya",
-    "location": "Riviera de São Lourenço, SP",
-    "place": "Riviera de São Lourenço, SP",
-    "category": "Residencial",
-    "status": "À venda",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo"
-    ],
-    "cover": "img/maya-piscina.webp",
-    "hover": "img/maya-fachada.webp",
-    "heroPos": "50% 62%",
-    "lead": "Uma casa projetada com olhar de quem vai morar — olhar de dono.",
-    "text": [
-      "Criada para ser palco de encontros, de conversas demoradas, de um drink no final do dia. Um lugar onde o cotidiano vira ritual, transformando cada momento em algo especial.",
-      "Tramas, texturas e materiais naturais acolhem: a madeira do pergolado e do deck, as paredes de pedra, as fibras e a vegetação tropical que atravessa os ambientes. Na fachada, os cobogós deixam a luz vazar, criando movimento e sombras ao longo do dia.",
-      "Um espaço que desperta sensações, que convida a sentir, tocar, respirar. Para quem for viver nela, a Casa Maya é experiência — não apenas arquitetura."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "Tey Romeiro Arquitetura"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/maya-fachada.webp",
-        "alt": "Fachada com cobogós, painéis de madeira e jardineira no pavimento superior"
-      },
-      {
-        "src": "img/maya-fachada-2.webp",
-        "alt": "Fachada vista da rua, com palmeiras e caminho de pisantes"
-      },
-      {
-        "src": "img/maya-jardim-rede.webp",
-        "alt": "Jardim lateral com rede entre as palmeiras e luminárias de fibra"
-      },
-      {
-        "src": "img/maya-fundos.jpg",
-        "alt": "Vista dos fundos da casa com a piscina, o pergolado e o jardim tropical"
-      },
-      {
-        "src": "img/maya-piscina-deck.webp",
-        "alt": "Deck de madeira com espreguiçadeiras junto à piscina"
-      },
-      {
-        "src": "img/maya-pergolado.webp",
-        "alt": "Mesa de jantar externa sob o pergolado coberto por trepadeiras"
-      },
-      {
-        "src": "img/maya-piscina.webp",
-        "alt": "Piscina e pergolado de madeira com a sala integrada ao fundo"
-      },
-      {
-        "src": "img/maya-vista-porta.webp",
-        "alt": "Vista da área da piscina emoldurada pela porta de correr"
-      },
-      {
-        "src": "img/maya-piscina-interna.webp",
-        "alt": "Piscina vista a partir da área coberta, com palmeira-laca ao fundo"
-      },
-      {
-        "src": "img/maya-jantar.jpg",
-        "alt": "Sala de jantar com luminária de fibra natural e jardins nas laterais"
-      },
-      {
-        "src": "img/maya-estar.webp",
-        "alt": "Estar com sofá terracota, parede de pedra e aparador em mármore verde"
-      },
-      {
-        "src": "img/maya-estar-escada.jpg",
-        "alt": "Estar junto à escada, com cobogós e jardim interno"
-      },
-      {
-        "src": "img/maya-cozinha.jpg",
-        "alt": "Cozinha em madeira clara com bancada curva e mármore verde"
-      }
-    ],
-    "published": true,
-    "featured": true
   },
   {
     "slug": "casa-angra",
