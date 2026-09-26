@@ -527,7 +527,7 @@ window.PROJECTS = [
       "Arquitetura"
     ],
     "cover": "img/uploads/2-9af539bd.webp",
-    "hover": "img/uploads/4-401053b3.webp",
+    "hover": "img/uploads/15-3aad42ef.webp",
     "heroPos": "56% 62%",
     "lead": "O luxo aqui é respirar fundo e sentir-se parte do todo.",
     "text": [
