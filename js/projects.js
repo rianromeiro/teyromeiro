@@ -704,6 +704,7 @@ window.PROJECTS = [
       "Interiores"
     ],
     "cover": "img/uploads/26-98c90d00.webp",
+    "hover": "img/uploads/16-48b8b231.webp",
     "heroPos": "50% 50%",
     "lead": "Mais integração, mais encontros, mais vida!",
     "text": [
