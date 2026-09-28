@@ -713,11 +713,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Interiores",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Paisagismo",
