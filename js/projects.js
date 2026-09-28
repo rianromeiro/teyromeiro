@@ -88,7 +88,9 @@ window.PROJECTS = [
     "slug": "tera-hub",
     "title": "Edifício Tera Hub",
     "location": "Edifício corporativo",
+    "place": "Centro, Mogi das Cruzes - SP",
     "category": "Corporativo",
+    "status": "Em obra",
     "tags": [
       "Edificação",
       "Interiores",
