@@ -182,6 +182,113 @@
     "featured": true
   },
   {
+    "slug": "casa-angra",
+    "title": "Casa na Ilha",
+    "location": "Angra dos Reis, RJ",
+    "place": "Angra dos Reis, RJ",
+    "category": "Residencial",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagem"
+    ],
+    "cover": "img/uploads/renderscene-38-2d5ae1a9.webp",
+    "hover": "img/angra-frontal.jpg",
+    "heroPos": "50% 50%",
+    "lead": "Um projeto que nasce do encontro entre arquitetura, natureza e mar.",
+    "text": [
+      "Um projeto que nasce do encontro entre arquitetura, natureza e mar, valorizando a paisagem, a leveza dos materiais e a experiência de viver esse lugar tão especial.",
+      "A casa se acomoda à encosta em patamares. Na base, um volume terroso abriga as áreas de convívio abertas para o gramado e para o deck sobre o mar; acima, os terraços ajardinados e as venezianas de madeira filtram a luz e a brisa, enquanto o telhado de telha cerâmica sobre estrutura aparente de madeira faz a ponte com a arquitetura tradicional da região.",
+      "Cada vista, cada abertura e cada ambiente foram pensados para integrar a casa à ilha de forma natural e acolhedora."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @mttpires.au"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/angra-frontal.jpg",
+        "alt": "Vista frontal da casa a partir do mar, com o deck de madeira em primeiro plano"
+      },
+      {
+        "src": "img/angra-lateral.jpg",
+        "alt": "Casa em patamares sobre a encosta, com a base em tom terroso"
+      },
+      {
+        "src": "img/angra-varanda.jpg",
+        "alt": "Varanda com guarda-corpo de madeira e jardineiras de costela-de-adão"
+      },
+      {
+        "src": "img/angra-deck-alto.jpg",
+        "alt": "Vista elevada da casa, do deck e do muro de pedra junto ao mar"
+      },
+      {
+        "src": "img/angra-deck.jpg",
+        "alt": "Deck de madeira sobre o mar com a casa ao fundo"
+      },
+      {
+        "src": "img/uploads/renderscene-38-2d5ae1a9.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-39-81698fc8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-40-891c887a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-4-a9c1fa7e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-15-439c59ea.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-21-0b67fe54.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-22-e1e78a60.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-28-c3e66fb5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-29-158ae3ab.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-31-a814f910.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-46-c5a14dc1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-47-2e027225.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-44-7e2c8e7d.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "area-gourmet",
     "title": "ÁREA GOURMET",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -283,113 +390,6 @@
       },
       {
         "src": "img/uploads/rscene-78-1-053d5c39.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": true
-  },
-  {
-    "slug": "casa-angra",
-    "title": "Casa na Ilha",
-    "location": "Angra dos Reis, RJ",
-    "place": "Angra dos Reis, RJ",
-    "category": "Residencial",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagem"
-    ],
-    "cover": "img/uploads/renderscene-38-2d5ae1a9.webp",
-    "hover": "img/angra-frontal.jpg",
-    "heroPos": "50% 50%",
-    "lead": "Um projeto que nasce do encontro entre arquitetura, natureza e mar.",
-    "text": [
-      "Um projeto que nasce do encontro entre arquitetura, natureza e mar, valorizando a paisagem, a leveza dos materiais e a experiência de viver esse lugar tão especial.",
-      "A casa se acomoda à encosta em patamares. Na base, um volume terroso abriga as áreas de convívio abertas para o gramado e para o deck sobre o mar; acima, os terraços ajardinados e as venezianas de madeira filtram a luz e a brisa, enquanto o telhado de telha cerâmica sobre estrutura aparente de madeira faz a ponte com a arquitetura tradicional da região.",
-      "Cada vista, cada abertura e cada ambiente foram pensados para integrar a casa à ilha de forma natural e acolhedora."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "Tey Romeiro Arquitetura"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @mttpires.au"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/angra-frontal.jpg",
-        "alt": "Vista frontal da casa a partir do mar, com o deck de madeira em primeiro plano"
-      },
-      {
-        "src": "img/angra-lateral.jpg",
-        "alt": "Casa em patamares sobre a encosta, com a base em tom terroso"
-      },
-      {
-        "src": "img/angra-varanda.jpg",
-        "alt": "Varanda com guarda-corpo de madeira e jardineiras de costela-de-adão"
-      },
-      {
-        "src": "img/angra-deck-alto.jpg",
-        "alt": "Vista elevada da casa, do deck e do muro de pedra junto ao mar"
-      },
-      {
-        "src": "img/angra-deck.jpg",
-        "alt": "Deck de madeira sobre o mar com a casa ao fundo"
-      },
-      {
-        "src": "img/uploads/renderscene-38-2d5ae1a9.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-39-81698fc8.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-40-891c887a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-4-a9c1fa7e.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-15-439c59ea.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-21-0b67fe54.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-22-e1e78a60.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-28-c3e66fb5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-29-158ae3ab.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-31-a814f910.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-46-c5a14dc1.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-47-2e027225.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-44-7e2c8e7d.webp",
         "alt": ""
       }
     ],
