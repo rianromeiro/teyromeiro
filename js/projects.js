@@ -1086,15 +1086,15 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
+        "src": "img/uploads/image-fdfe0265.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/scene-100-78cc2679.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/esquina-8ec04692.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/image-fdfe0265.webp",
         "alt": ""
       },
       {
@@ -1118,11 +1118,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-91-1-68f32a76.webp",
+        "src": "img/uploads/rscene-92-1-e3f8cb96.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-92-1-e3f8cb96.webp",
+        "src": "img/uploads/rscene-91-1-68f32a76.webp",
         "alt": ""
       },
       {
@@ -1130,11 +1130,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
+        "src": "img/uploads/casa-compasso-93906b75.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/casa-compasso-93906b75.webp",
+        "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
         "alt": ""
       }
     ],
