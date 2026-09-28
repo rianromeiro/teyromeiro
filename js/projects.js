@@ -851,7 +851,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rscene-38-1-0eacc95e.webp",
-    "hover": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+    "hover": "img/uploads/casa-horizonte-16fd68fc.webp",
     "heroPos": "51% 63%",
     "text": [],
     "credits": [
@@ -931,6 +931,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-horizonte-16fd68fc.webp",
         "alt": ""
       }
     ],
