@@ -649,7 +649,10 @@ window.PROJECTS = [
     "cover": "img/uploads/rguga-03-1-970fb56f.webp",
     "hover": "img/uploads/capa-casa-jardim-97d80a22.webp",
     "heroPos": "50% 50%",
-    "text": [],
+    "lead": "Quando a natureza faz parte da casa, viver se torna uma experiência.",
+    "text": [
+      "A primeira residência deste conjunto revela a essência de todo o projeto: a integração entre arquitetura, paisagismo e forma de viver. Pensada para estabelecer uma conexão genuína com a natureza, a casa se abre para jardins que permeiam os ambientes, criam percursos e transformam a paisagem em parte da experiência cotidiana. A vegetação não ocupa apenas os espaços externos. Ela atravessa os limites da arquitetura, acompanha a rotina dos moradores e contribui para a atmosfera de acolhimento, privacidade e bem-estar presente em cada ambiente. Um projeto onde arquitetura e paisagismo se complementam para criar espaços que vão além da estética: espaços feitos para serem vividos."
+    ],
     "credits": [
       [
         "Arquitetura",
