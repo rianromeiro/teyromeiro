@@ -761,7 +761,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rnara-02-1-81553865.webp",
-    "hover": "img/uploads/casa-abraco-2be75ff6.webp",
+    "hover": "img/uploads/casa-abraco-e9f49c7f.webp",
     "heroPos": "50% 50%",
     "lead": "No coração da vila, a arquitetura se transforma em abraço.",
     "text": [
@@ -831,7 +831,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/casa-abraco-2be75ff6.webp",
+        "src": "img/uploads/casa-abraco-e9f49c7f.webp",
         "alt": ""
       }
     ],
