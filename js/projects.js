@@ -295,10 +295,13 @@ window.PROJECTS = [
     "location": "Angra dos Reis, RJ",
     "place": "Angra dos Reis, RJ",
     "category": "Residencial",
+    "year": "2026",
+    "area": "109,68m²",
+    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Interiores",
-      "Paisagem"
+      "Paisagismo"
     ],
     "cover": "img/caseiro-frente.webp",
     "hover": "img/caseiro-aerea.webp",
@@ -313,7 +316,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @mttpires.au"
       ],
       [
         "Conjunto",
@@ -378,6 +385,7 @@ window.PROJECTS = [
     "title": "Casa Real Park",
     "location": "Retrofit residencial",
     "category": "Retrofit",
+    "status": "Concluído",
     "tags": [
       "Retrofit",
       "Fachada",
@@ -395,7 +403,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Escopo",
@@ -484,7 +492,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ]
     ],
     "gallery": [
@@ -556,7 +564,10 @@ window.PROJECTS = [
     "slug": "vila-real-park",
     "title": "Vila Real Park",
     "location": "Conjunto residencial",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
+    "year": "2024",
+    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Paisagismo integrado"
@@ -573,11 +584,15 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
       ],
       [
         "Paisagismo",
-        "@matheusaroge"
+        "@atelieseiva.paisagismo"
       ],
       [
         "Equipe",
@@ -625,11 +640,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Interiores",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Paisagismo",
@@ -695,7 +710,7 @@ window.PROJECTS = [
   },
   {
     "slug": "area-gourmet",
-    "title": "ÁREA GOURMET",
+    "title": "ÁREA GOURMET - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
@@ -713,11 +728,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Interiores",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Paisagismo",
