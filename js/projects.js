@@ -702,7 +702,7 @@ window.PROJECTS = [
   },
   {
     "slug": "area-gourmet",
-    "title": "ÁREA GOURMET",
+    "title": "ÁREA GOURMET - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
