@@ -1,5 +1,105 @@
 [
   {
+    "slug": "casa-marcelo-vila-nanac",
+    "title": "CASA MARCELO - VILA NANAC",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "294,76m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rscene-38-1-0eacc95e.webp",
+    "hover": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+    "heroPos": "51% 63%",
+    "text": [],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rscene-33-2-cd5eb70e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-38-1-0eacc95e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-34-2-931aec08.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-35-1-13da3495.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-41-1-84cb0bf3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-40-1-1b3994bb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-39-1-c24beec6.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-37-1-c0af21e5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-43-1-a251de23.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-44-1-fead0179.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-45-1-c39ff200.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-51-1-cf4194be.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-52-1-fe554f23.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-uwqmdvuwqmdvuwqm-8995d684.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "casa-maya",
     "title": "Casa Maya",
     "location": "Riviera de São Lourenço, SP",
