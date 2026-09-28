@@ -1215,9 +1215,9 @@ window.PROJECTS = [
     "tags": [
       "Interiores"
     ],
-    "cover": "img/uploads/26-98c90d00.webp",
+    "cover": "img/uploads/22-9199a4db.webp",
     "hover": "img/uploads/16-48b8b231.webp",
-    "heroPos": "50% 50%",
+    "heroPos": "73% 51%",
     "lead": "Mais integração, mais encontros, mais vida!",
     "text": [
       "Uma casa de praia onde receber faz parte da sua essência . O desafio deste projeto foi transformar uma área de lazer compartimentada em um espaço fluido, integrado e acolhedor. A proposta conectou cozinha, sala, varanda gourmet e jardim com spa, ampliando a percepção dos ambientes e criando uma circulação mais livre e funcional. Cada espaço foi pensado para valorizar a convivência, trazendo conforto tanto para os momentos tranquilos em família quanto para os encontros animados . O resultado é uma arquitetura que  amplia possibilidades, aproxima pessoas e transforma a casa em um verdadeiro lugar de encontros."
@@ -1254,11 +1254,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/26-98c90d00.webp",
+        "src": "img/uploads/26-ab7d85bf.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/27-38615ba7.webp",
+        "src": "img/uploads/27-ac6d6b79.webp",
         "alt": ""
       },
       {
@@ -1282,15 +1282,15 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/25-23e6e244.webp",
+        "src": "img/uploads/25-48ed4c04.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/22-e216b105.webp",
+        "src": "img/uploads/22-9199a4db.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/24-beeba0a4.webp",
+        "src": "img/uploads/24-93d0515f.webp",
         "alt": ""
       },
       {
