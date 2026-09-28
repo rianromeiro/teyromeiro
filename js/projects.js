@@ -764,7 +764,10 @@ window.PROJECTS = [
     "cover": "img/uploads/rnara-02-1-81553865.webp",
     "hover": "img/uploads/casa-abraco-2be75ff6.webp",
     "heroPos": "50% 50%",
-    "text": [],
+    "lead": "No coração da vila, a arquitetura se transforma em abraço.",
+    "text": [
+      "Esta casa apresenta uma linguagem própria. Continuando as casa da nossa reinterpretação moderna e sofisticada das antigas vilas familiares, esta casa é muito especial, ela é protegida por todas as outras tendo o melhor lugar de todas. É a casa da Mãe. A Implantação ficou incrivelmente poética. A arquitetura, quando bem pensada, materializa os sentimentos dos clientes, e essa configuração em formato de \"abraço\" ou \"escudo\" em torno da mãe é a prova viva disso. Enquanto as residências dos filhos seguem uma linha moderna e atemporal, a casa da mãe ganha um toque clássico e acolhedor, respeitando a identidade de cada um. O paisagismo acompanha essa proposta com delicadeza. Árvores floridas, vasos ornamentais e maciços vegetais cuidadosamente distribuídos emolduram a arquitetura, suavizam os volumes construídos e criam uma atmosfera acolhedora desde a chegada."
+    ],
     "credits": [
       [
         "Arquitetura",
