@@ -477,94 +477,6 @@ window.PROJECTS = [
     "featured": true
   },
   {
-    "slug": "casa-nara-vila-nanac",
-    "title": "CASA NARA - VILA NANAC",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "305,33",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/uploads/rnara-02-1-81553865.webp",
-    "hover": "img/uploads/rscene-32-1-bb360e8b.webp",
-    "heroPos": "50% 50%",
-    "text": [],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/rnara-01-2-4fd3ca38.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rnara-02-1-81553865.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-hqoxpxhqoxpxhqox-3e6ec012.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-26-1-c5433d24.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-31-1-6a9a5eb5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-32-1-bb360e8b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-28-2-c31a6bdf.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-30-1-cecbe46c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-27-1-86fffe0a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-29-1-c6528a77.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-4h0z64h0z64h0z64-d825e705.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
     "slug": "chacara-k-a",
     "title": "Chácara k & A",
     "place": "Biritiba Ussu - Mogi das Cruzes - SP",
@@ -647,6 +559,94 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/23-fb196d07.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
+    "slug": "casa-nara-vila-nanac",
+    "title": "CASA NARA - VILA NANAC",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "305,33",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rnara-02-1-81553865.webp",
+    "hover": "img/uploads/rscene-32-1-bb360e8b.webp",
+    "heroPos": "50% 50%",
+    "text": [],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rnara-01-2-4fd3ca38.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rnara-02-1-81553865.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-hqoxpxhqoxpxhqox-3e6ec012.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-26-1-c5433d24.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-31-1-6a9a5eb5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-32-1-bb360e8b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-28-2-c31a6bdf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-30-1-cecbe46c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-27-1-86fffe0a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-29-1-c6528a77.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-4h0z64h0z64h0z64-d825e705.webp",
         "alt": ""
       }
     ],
