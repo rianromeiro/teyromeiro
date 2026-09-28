@@ -647,7 +647,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rguga-03-1-970fb56f.webp",
-    "hover": "img/uploads/rguga-05-1-f80088fc.webp",
+    "hover": "img/uploads/capa-casa-jardim-97d80a22.webp",
     "heroPos": "50% 50%",
     "text": [],
     "credits": [
@@ -694,11 +694,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/rguga-08-1-c2b373ed.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-14-1-c12ad88f.webp",
+        "src": "img/uploads/rscene-16-1-8353661f.webp",
         "alt": ""
       },
       {
@@ -706,7 +702,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-16-1-8353661f.webp",
+        "src": "img/uploads/rguga-08-1-c2b373ed.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-14-1-c12ad88f.webp",
         "alt": ""
       },
       {
@@ -735,6 +735,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/rscene-24-1-323f0ffc.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/capa-casa-jardim-97d80a22.webp",
         "alt": ""
       }
     ],
