@@ -464,6 +464,95 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "chacara-k-a",
+    "title": "Chácara k & A",
+    "place": "Biritiba Ussu - Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2025",
+    "area": "180,60 m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura"
+    ],
+    "cover": "img/uploads/2-9af539bd.webp",
+    "hover": "img/uploads/15-3aad42ef.webp",
+    "heroPos": "56% 62%",
+    "lead": "O luxo aqui é respirar fundo e sentir-se parte do todo.",
+    "text": [
+      "Um projeto que é uma transição potente! Sair da loucura do centro de São Paulo para o silêncio da Serra, é mais do que uma mudança de endereço, é um manifesto de cura. Este projeto nasce da busca corajosa por saúde mental e qualidade de vida, uma casa pequena no tamanho mas gigante na conexão com a natureza! Casa térrea sem excesso com apenas o necessário pra se viver bem com conforto, apenas espaços para o que realmente importa:          A experiência de quem o habita."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "Tey Romeiro Arquitetura"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/2-9af539bd.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/4-401053b3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/6-f2a99300.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/11-b2808621.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/5-f35b08ca.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/12-1b67b12a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/9-929c9803.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/15-3aad42ef.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/13-2d4ffa64.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/14-72a5b666.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/16-f8d035f7.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/18-70ef5824.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/21-98e55e14.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/22-ddcb506c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/23-fb196d07.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "area-gourmet",
     "title": "ÁREA GOURMET",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -570,95 +659,6 @@ window.PROJECTS = [
     ],
     "published": true,
     "featured": true
-  },
-  {
-    "slug": "chacara-k-a",
-    "title": "Chácara k & A",
-    "place": "Biritiba Ussu - Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2025",
-    "area": "180,60 m²",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura"
-    ],
-    "cover": "img/uploads/2-9af539bd.webp",
-    "hover": "img/uploads/15-3aad42ef.webp",
-    "heroPos": "56% 62%",
-    "lead": "O luxo aqui é respirar fundo e sentir-se parte do todo.",
-    "text": [
-      "Um projeto que é uma transição potente! Sair da loucura do centro de São Paulo para o silêncio da Serra, é mais do que uma mudança de endereço, é um manifesto de cura. Este projeto nasce da busca corajosa por saúde mental e qualidade de vida, uma casa pequena no tamanho mas gigante na conexão com a natureza! Casa térrea sem excesso com apenas o necessário pra se viver bem com conforto, apenas espaços para o que realmente importa:          A experiência de quem o habita."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "Tey Romeiro Arquitetura"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/2-9af539bd.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/4-401053b3.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/6-f2a99300.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/11-b2808621.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/5-f35b08ca.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/12-1b67b12a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/9-929c9803.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/15-3aad42ef.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/13-2d4ffa64.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/14-72a5b666.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/16-f8d035f7.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/18-70ef5824.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/21-98e55e14.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/22-ddcb506c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/23-fb196d07.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
   },
   {
     "slug": "vila-real-park",
