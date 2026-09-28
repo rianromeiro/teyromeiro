@@ -378,6 +378,7 @@ window.PROJECTS = [
     "title": "Casa Real Park",
     "location": "Retrofit residencial",
     "category": "Retrofit",
+    "status": "Concluído",
     "tags": [
       "Retrofit",
       "Fachada",
@@ -395,7 +396,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Escopo",
