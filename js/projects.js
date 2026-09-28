@@ -85,6 +85,104 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "tera-hub",
+    "title": "Edifício Tera Hub",
+    "location": "Edifício corporativo",
+    "category": "Corporativo",
+    "tags": [
+      "Edificação",
+      "Interiores",
+      "Arquitetura biofílica"
+    ],
+    "cover": "img/terahub-lateral.jpg",
+    "hover": "img/terahub-atrio.webp",
+    "heroPos": "50% 42%",
+    "lead": "O futuro dos edifícios corporativos não será definido pela tecnologia que eles abrigam, mas pela forma como fazem as pessoas se sentirem.",
+    "text": [
+      "Durante muito tempo, os edifícios corporativos foram pensados para atender às necessidades das empresas. Neste projeto, decidimos inverter essa lógica. A tecnologia continua sendo protagonista, mas trabalha em silêncio — o verdadeiro centro do projeto são as pessoas.",
+      "Projetamos um edifício para uma empresa de tecnologia que acredita que a inovação não nasce apenas de equipamentos de última geração ou de inteligência artificial. Ela nasce da criatividade, da troca de ideias, do bem-estar e da qualidade de vida de quem faz a empresa acontecer todos os dias. Cada decisão arquitetônica foi guiada por uma pergunta simples: como criar espaços que promovam bem-estar desde o momento da chegada?",
+      "A resposta está em cada ambiente: a recepção em concreto e madeira que se abre para o átrio arborizado, o térreo integrado à praça, as áreas de convivência, o mezanino, o auditório e as salas de trabalho envoltas em luz natural. Ventilação natural, arquitetura biofílica e espaços colaborativos fazem parte de uma proposta que valoriza o bem-estar como elemento essencial da inovação.",
+      "A tecnologia conecta sistemas. A arquitetura conecta pessoas."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/terahub-frente.jpg",
+        "alt": "Fachada frontal com brises verticais de madeira e jardineiras em todos os pavimentos",
+        "layout": "pair"
+      },
+      {
+        "src": "img/terahub-lateral.jpg",
+        "alt": "Vista em perspectiva do edifício a partir da rua arborizada",
+        "layout": "pair"
+      },
+      {
+        "src": "img/terahub-posterior.jpg",
+        "alt": "Fachada posterior com terraços ajardinados e caixilharia em vidro",
+        "layout": "tall"
+      },
+      {
+        "src": "img/terahub-praca.webp",
+        "alt": "Térreo envidraçado aberto para a praça com piso de paralelepípedos e jardins"
+      },
+      {
+        "src": "img/terahub-recepcao.jpg",
+        "alt": "Recepção em concreto aparente com bancos e balcão de madeira"
+      },
+      {
+        "src": "img/terahub-atrio.webp",
+        "alt": "Átrio com árvore central, mesa coletiva e áreas de estar"
+      },
+      {
+        "src": "img/terahub-atrio-2.webp",
+        "alt": "Átrio de pé-direito duplo com a árvore atravessando o mezanino"
+      },
+      {
+        "src": "img/terahub-convivencia.webp",
+        "alt": "Área de convivência do térreo aberta para o deck externo"
+      },
+      {
+        "src": "img/terahub-lounge.webp",
+        "alt": "Lounge com poltronas terracota, café e salas de reunião em OSB"
+      },
+      {
+        "src": "img/terahub-mezanino.webp",
+        "alt": "Mezanino com estar, copa e vista para a copa da árvore"
+      },
+      {
+        "src": "img/terahub-auditorio.webp",
+        "alt": "Auditório com forro ondulado de madeira e cadeiras verdes"
+      },
+      {
+        "src": "img/terahub-cafe.jpg",
+        "alt": "Espaço de café e convivência com iluminação em trilhos"
+      },
+      {
+        "src": "img/terahub-diretoria.webp",
+        "alt": "Estar da diretoria com salas envidraçadas e estantes em madeira iluminadas"
+      },
+      {
+        "src": "img/uploads/render-09-8f050802.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-01-799f65e3.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "casa-marcelo-vila-nanac",
     "title": "CASA MARCELO - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -178,104 +276,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": true
-  },
-  {
-    "slug": "tera-hub",
-    "title": "Edifício Tera Hub",
-    "location": "Edifício corporativo",
-    "category": "Corporativo",
-    "tags": [
-      "Edificação",
-      "Interiores",
-      "Arquitetura biofílica"
-    ],
-    "cover": "img/terahub-lateral.jpg",
-    "hover": "img/terahub-atrio.webp",
-    "heroPos": "50% 42%",
-    "lead": "O futuro dos edifícios corporativos não será definido pela tecnologia que eles abrigam, mas pela forma como fazem as pessoas se sentirem.",
-    "text": [
-      "Durante muito tempo, os edifícios corporativos foram pensados para atender às necessidades das empresas. Neste projeto, decidimos inverter essa lógica. A tecnologia continua sendo protagonista, mas trabalha em silêncio — o verdadeiro centro do projeto são as pessoas.",
-      "Projetamos um edifício para uma empresa de tecnologia que acredita que a inovação não nasce apenas de equipamentos de última geração ou de inteligência artificial. Ela nasce da criatividade, da troca de ideias, do bem-estar e da qualidade de vida de quem faz a empresa acontecer todos os dias. Cada decisão arquitetônica foi guiada por uma pergunta simples: como criar espaços que promovam bem-estar desde o momento da chegada?",
-      "A resposta está em cada ambiente: a recepção em concreto e madeira que se abre para o átrio arborizado, o térreo integrado à praça, as áreas de convivência, o mezanino, o auditório e as salas de trabalho envoltas em luz natural. Ventilação natural, arquitetura biofílica e espaços colaborativos fazem parte de uma proposta que valoriza o bem-estar como elemento essencial da inovação.",
-      "A tecnologia conecta sistemas. A arquitetura conecta pessoas."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "Tey Romeiro Arquitetura"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/terahub-frente.jpg",
-        "alt": "Fachada frontal com brises verticais de madeira e jardineiras em todos os pavimentos",
-        "layout": "pair"
-      },
-      {
-        "src": "img/terahub-lateral.jpg",
-        "alt": "Vista em perspectiva do edifício a partir da rua arborizada",
-        "layout": "pair"
-      },
-      {
-        "src": "img/terahub-posterior.jpg",
-        "alt": "Fachada posterior com terraços ajardinados e caixilharia em vidro",
-        "layout": "tall"
-      },
-      {
-        "src": "img/terahub-praca.webp",
-        "alt": "Térreo envidraçado aberto para a praça com piso de paralelepípedos e jardins"
-      },
-      {
-        "src": "img/terahub-recepcao.jpg",
-        "alt": "Recepção em concreto aparente com bancos e balcão de madeira"
-      },
-      {
-        "src": "img/terahub-atrio.webp",
-        "alt": "Átrio com árvore central, mesa coletiva e áreas de estar"
-      },
-      {
-        "src": "img/terahub-atrio-2.webp",
-        "alt": "Átrio de pé-direito duplo com a árvore atravessando o mezanino"
-      },
-      {
-        "src": "img/terahub-convivencia.webp",
-        "alt": "Área de convivência do térreo aberta para o deck externo"
-      },
-      {
-        "src": "img/terahub-lounge.webp",
-        "alt": "Lounge com poltronas terracota, café e salas de reunião em OSB"
-      },
-      {
-        "src": "img/terahub-mezanino.webp",
-        "alt": "Mezanino com estar, copa e vista para a copa da árvore"
-      },
-      {
-        "src": "img/terahub-auditorio.webp",
-        "alt": "Auditório com forro ondulado de madeira e cadeiras verdes"
-      },
-      {
-        "src": "img/terahub-cafe.jpg",
-        "alt": "Espaço de café e convivência com iluminação em trilhos"
-      },
-      {
-        "src": "img/terahub-diretoria.webp",
-        "alt": "Estar da diretoria com salas envidraçadas e estantes em madeira iluminadas"
-      },
-      {
-        "src": "img/uploads/render-09-8f050802.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/render-01-799f65e3.webp",
         "alt": ""
       }
     ],
