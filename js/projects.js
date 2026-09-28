@@ -32,7 +32,7 @@ window.PROJECTS = [
       ],
       [
         "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw"
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
       ]
     ],
     "gallery": [
