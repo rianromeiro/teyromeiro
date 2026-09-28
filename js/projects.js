@@ -557,6 +557,8 @@ window.PROJECTS = [
     "title": "Vila Real Park",
     "location": "Conjunto residencial",
     "category": "Residencial",
+    "year": "2024",
+    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Paisagismo integrado"
