@@ -1067,7 +1067,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/esquina-8ec04692.webp",
-    "hover": "img/uploads/rscene-92-1-e3f8cb96.webp",
+    "hover": "img/uploads/casa-compasso-93906b75.webp",
     "heroPos": "58% 73%",
     "text": [],
     "credits": [
@@ -1135,6 +1135,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-compasso-93906b75.webp",
         "alt": ""
       }
     ],
