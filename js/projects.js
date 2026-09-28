@@ -413,6 +413,10 @@ window.PROJECTS = [
       [
         "Escopo",
         "Retrofit de fachada e área de lazer"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
       ]
     ],
     "gallery": [
