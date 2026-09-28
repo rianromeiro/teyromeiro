@@ -378,7 +378,6 @@ window.PROJECTS = [
     "title": "Casa Real Park",
     "location": "Retrofit residencial",
     "category": "Retrofit",
-    "status": "Concluído",
     "tags": [
       "Retrofit",
       "Fachada",
@@ -396,7 +395,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Escopo",
@@ -485,7 +484,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ]
     ],
     "gallery": [
@@ -557,10 +556,7 @@ window.PROJECTS = [
     "slug": "vila-real-park",
     "title": "Vila Real Park",
     "location": "Conjunto residencial",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
-    "year": "2024",
-    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Paisagismo integrado"
@@ -577,15 +573,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Paisagismo",
-        "@atelieseiva.paisagismo"
+        "@matheusaroge"
       ],
       [
         "Equipe",
@@ -633,11 +625,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Interiores",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Paisagismo",
@@ -703,7 +695,7 @@ window.PROJECTS = [
   },
   {
     "slug": "area-gourmet",
-    "title": "ÁREA GOURMET - VILA NANAC",
+    "title": "ÁREA GOURMET",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
@@ -721,11 +713,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Interiores",
-        "@teyromeiro.arquitetura"
+        "Tey Romeiro Arquitetura"
       ],
       [
         "Paisagismo",
