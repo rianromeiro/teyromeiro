@@ -823,7 +823,7 @@ window.PROJECTS = [
   },
   {
     "slug": "casa-marcelo-vila-nanac",
-    "title": "CASA MARCELO - VILA NANAC",
+    "title": "CASA HORIZONTE - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
