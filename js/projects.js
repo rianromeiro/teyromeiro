@@ -556,7 +556,10 @@ window.PROJECTS = [
     "slug": "vila-real-park",
     "title": "Vila Real Park",
     "location": "Conjunto residencial",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
+    "year": "2024",
+    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Paisagismo integrado"
@@ -573,11 +576,15 @@ window.PROJECTS = [
     "credits": [
       [
         "Arquitetura",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
       ],
       [
         "Paisagismo",
-        "@matheusaroge"
+        "@atelieseiva.paisagismo"
       ],
       [
         "Equipe",
