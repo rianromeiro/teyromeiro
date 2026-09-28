@@ -1029,11 +1029,11 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ],
       [
         "Equipe",
-        "@brunosouza.sp_ , @arquitetamariaeduardaw , @mttoires.au"
+        "@brunosouza.sp_ , @arquitetamariaeduardaw , @mttpires.au"
       ]
     ],
     "gallery": [
