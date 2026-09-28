@@ -1,6 +1,114 @@
 /* Gerado automaticamente pelo painel /admin. Nao edite a mao: use o painel. */
 window.PROJECTS = [
   {
+    "slug": "area-gourmet",
+    "title": "ÁREA GOURMET",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "200,58m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rscene-59-1-de0cecfc.webp",
+    "hover": "img/uploads/rscene-54-2-58b7e812.webp",
+    "heroPos": "45% 65%",
+    "text": [],
+    "credits": [
+      [
+        "Arquitetura",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Interiores",
+        "Tey Romeiro Arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Projeto",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rscene-56-1-b90d4dbe.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-54-2-58b7e812.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-56-2-724648af.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-57-4-aa040d90.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-59-1-de0cecfc.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-60-2-23e717e2.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-65-2-7e3ac514.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-62-1-d4243205.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-66-1-782783bb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-64-1-bfa2676a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-72-1-12c65522.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-75-1-c9be3332.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-70-1-a5003545.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-73-1-c6d70bba.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-69-2-de1d45d9.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-71-1-8f52b96b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-78-1-053d5c39.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "casa-maya",
     "title": "Casa Maya",
     "location": "Riviera de São Lourenço, SP",
@@ -557,8 +665,6 @@ window.PROJECTS = [
     "title": "Vila Real Park",
     "location": "Conjunto residencial",
     "category": "Residencial",
-    "year": "2024",
-    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Paisagismo integrado"
