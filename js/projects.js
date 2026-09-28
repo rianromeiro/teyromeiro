@@ -647,7 +647,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rguga-03-1-970fb56f.webp",
-    "hover": "img/uploads/capa-casa-jardim-97d80a22.webp",
+    "hover": "img/uploads/capa-casa-jardim-ff852f19.webp",
     "heroPos": "50% 50%",
     "lead": "Quando a natureza faz parte da casa, viver se torna uma experiência.",
     "text": [
@@ -741,7 +741,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/capa-casa-jardim-97d80a22.webp",
+        "src": "img/uploads/capa-casa-jardim-ff852f19.webp",
         "alt": ""
       }
     ],
