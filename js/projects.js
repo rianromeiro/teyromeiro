@@ -855,7 +855,10 @@ window.PROJECTS = [
     "cover": "img/uploads/rscene-38-1-0eacc95e.webp",
     "hover": "img/uploads/casa-horizonte-16fd68fc.webp",
     "heroPos": "51% 63%",
-    "text": [],
+    "lead": "Uma arquitetura que celebra a liberdade de viver e a alegria de reunir.",
+    "text": [
+      "Com uma arquitetura de linhas contemporâneas, grandes planos horizontais e volumes bem definidos, o projeto equilibra presença e leveza. A implantação valoriza cada perspectiva da esquina, criando diferentes experiências conforme o percurso ao redor da casa. O paisagismo foi pensado para acompanhar essa transição. Maciços tropicais, palmeiras, forrações e árvores de pequeno porte desenham percursos, emolduram a arquitetura e garantem privacidade aos ambientes internos, sem perder a sensação de amplitude. Nos fundos, a vegetação assume um papel ainda mais importante ao conectar e dar privacidade entre a residência e a área gourmet."
+    ],
     "credits": [
       [
         "Arquitetura",
