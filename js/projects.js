@@ -1146,6 +1146,10 @@ window.PROJECTS = [
       [
         "Projeto",
         "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
       ]
     ],
     "gallery": [
