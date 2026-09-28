@@ -185,114 +185,6 @@ window.PROJECTS = [
     "featured": true
   },
   {
-    "slug": "casa-guga-vila-nanac",
-    "title": "CASA GUGA - VILA NANAC",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "291,67m²",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/uploads/rguga-03-1-970fb56f.webp",
-    "hover": "img/uploads/rguga-05-1-f80088fc.webp",
-    "heroPos": "50% 50%",
-    "text": [],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/rguga-01-2-9e11b55c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-03-1-970fb56f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-04-1-42ddbadd.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-02-1-025893e8.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-05-1-f80088fc.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-07-1-c8e56f61.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rguga-08-1-c2b373ed.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-14-1-c12ad88f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-15-1-bc761ecf.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-16-1-8353661f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-18-1-c7638beb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-19-2-a96e070c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-20-1-c62930b4.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-21-1-40181af2.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-22-1-7d241c88.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-23-1-3ff1cd16.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-24-1-323f0ffc.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
     "slug": "casa-angra",
     "title": "Casa na Ilha",
     "location": "Angra dos Reis, RJ",
@@ -401,6 +293,114 @@ window.PROJECTS = [
     ],
     "published": true,
     "featured": true
+  },
+  {
+    "slug": "casa-guga-vila-nanac",
+    "title": "CASA GUGA - VILA NANAC",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "291,67m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rguga-03-1-970fb56f.webp",
+    "hover": "img/uploads/rguga-05-1-f80088fc.webp",
+    "heroPos": "50% 50%",
+    "text": [],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rguga-01-2-9e11b55c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-03-1-970fb56f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-04-1-42ddbadd.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-02-1-025893e8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-05-1-f80088fc.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-07-1-c8e56f61.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rguga-08-1-c2b373ed.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-14-1-c12ad88f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-15-1-bc761ecf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-16-1-8353661f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-18-1-c7638beb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-19-2-a96e070c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-20-1-c62930b4.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-21-1-40181af2.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-22-1-7d241c88.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-23-1-3ff1cd16.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-24-1-323f0ffc.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
   },
   {
     "slug": "casa-do-caseiro",
