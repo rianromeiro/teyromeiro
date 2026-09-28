@@ -735,7 +735,7 @@ window.PROJECTS = [
   },
   {
     "slug": "casa-nara-vila-nanac",
-    "title": "CASA NARA - VILA NANAC",
+    "title": "CASA ABRAÇO - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
