@@ -385,6 +385,97 @@
     "featured": false
   },
   {
+    "slug": "casa-real-park",
+    "title": "Casa Real Park",
+    "location": "Retrofit residencial",
+    "category": "Retrofit",
+    "status": "Concluído",
+    "tags": [
+      "Retrofit",
+      "Fachada",
+      "Área de lazer"
+    ],
+    "cover": "img/realpark-tey.jpg",
+    "hover": "img/uploads/editada-img-0184-3294a501.webp",
+    "heroPos": "50% 50%",
+    "lead": "Honrar uma arquitetura singular e trazê-la para a atualidade com leveza.",
+    "text": [
+      "Era uma construção cheia de personalidade: vigas curvas, paredes arredondadas, tijolinhos de vidro — tudo envolto por um branco que deixava transparecer a alma contemporânea do projeto. A primeira intenção foi honrar essa arquitetura, seus volumes e suas curvas, com clareza volumétrica.",
+      "Na fachada, o branco foi preservado e aquecido por um revestimento amadeirado, que trouxe acolhimento e equilíbrio. Na área de lazer, a transformação foi completa: o espaço foi reconfigurado para uma família que valoriza estar reunida, praticar exercícios, conectar-se com a natureza e manter um estilo de vida saudável.",
+      "As ideias foram apresentadas já na primeira visita — e, a partir dali, arquiteta e cliente seguiram juntas, dando uma nova vida à casa."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Escopo",
+        "Retrofit de fachada e área de lazer"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/realpark-tey.jpg",
+        "alt": "Pavilhão de academia envidraçado junto à piscina, cercado por vegetação tropical"
+      },
+      {
+        "src": "img/realpark-fachada.jpg",
+        "alt": "Fachada com revestimento amadeirado e escada de acesso entre palmeiras"
+      },
+      {
+        "src": "img/realpark-piscina.jpg",
+        "alt": "Piscina revestida em pastilhas verdes com deck e pergolado"
+      },
+      {
+        "src": "img/realpark-academia.jpg",
+        "alt": "Interior da academia com forro de madeira e iluminação linear"
+      },
+      {
+        "src": "img/realpark-sauna.jpg",
+        "alt": "Acesso à sauna iluminado entre o jardim de seixos"
+      },
+      {
+        "src": "img/realpark-lazer.jpg",
+        "alt": "Varanda com poltronas de fibra natural e maciço de helicônias"
+      },
+      {
+        "src": "img/uploads/img-0035-a36b7439.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0037-0e6ec833.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0080-309cbce3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0102-cf4027e0.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0120-b92ea3fe.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/img-0183-03c028ed.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/nao-e-ia-695f1683.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/editada-img-0184-3294a501.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "casa-guga-vila-nanac",
     "title": "CASA GUGA - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -491,97 +582,6 @@
     ],
     "published": true,
     "featured": false
-  },
-  {
-    "slug": "casa-real-park",
-    "title": "Casa Real Park",
-    "location": "Retrofit residencial",
-    "category": "Retrofit",
-    "status": "Concluído",
-    "tags": [
-      "Retrofit",
-      "Fachada",
-      "Área de lazer"
-    ],
-    "cover": "img/realpark-tey.jpg",
-    "hover": "img/uploads/editada-img-0184-3294a501.webp",
-    "heroPos": "50% 50%",
-    "lead": "Honrar uma arquitetura singular e trazê-la para a atualidade com leveza.",
-    "text": [
-      "Era uma construção cheia de personalidade: vigas curvas, paredes arredondadas, tijolinhos de vidro — tudo envolto por um branco que deixava transparecer a alma contemporânea do projeto. A primeira intenção foi honrar essa arquitetura, seus volumes e suas curvas, com clareza volumétrica.",
-      "Na fachada, o branco foi preservado e aquecido por um revestimento amadeirado, que trouxe acolhimento e equilíbrio. Na área de lazer, a transformação foi completa: o espaço foi reconfigurado para uma família que valoriza estar reunida, praticar exercícios, conectar-se com a natureza e manter um estilo de vida saudável.",
-      "As ideias foram apresentadas já na primeira visita — e, a partir dali, arquiteta e cliente seguiram juntas, dando uma nova vida à casa."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Escopo",
-        "Retrofit de fachada e área de lazer"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/realpark-tey.jpg",
-        "alt": "Pavilhão de academia envidraçado junto à piscina, cercado por vegetação tropical"
-      },
-      {
-        "src": "img/realpark-fachada.jpg",
-        "alt": "Fachada com revestimento amadeirado e escada de acesso entre palmeiras"
-      },
-      {
-        "src": "img/realpark-piscina.jpg",
-        "alt": "Piscina revestida em pastilhas verdes com deck e pergolado"
-      },
-      {
-        "src": "img/realpark-academia.jpg",
-        "alt": "Interior da academia com forro de madeira e iluminação linear"
-      },
-      {
-        "src": "img/realpark-sauna.jpg",
-        "alt": "Acesso à sauna iluminado entre o jardim de seixos"
-      },
-      {
-        "src": "img/realpark-lazer.jpg",
-        "alt": "Varanda com poltronas de fibra natural e maciço de helicônias"
-      },
-      {
-        "src": "img/uploads/img-0035-a36b7439.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/img-0037-0e6ec833.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/img-0080-309cbce3.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/img-0102-cf4027e0.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/img-0120-b92ea3fe.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/img-0183-03c028ed.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/nao-e-ia-695f1683.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/editada-img-0184-3294a501.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": true
   },
   {
     "slug": "chacara-k-a",
