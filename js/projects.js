@@ -1077,7 +1077,10 @@ window.PROJECTS = [
     "cover": "img/uploads/esquina-8ec04692.webp",
     "hover": "img/uploads/casa-compasso-93906b75.webp",
     "heroPos": "58% 73%",
-    "text": [],
+    "lead": "Uma casa onde a música, a natureza e os encontros se harmonizam.",
+    "text": [
+      "Chegamos à casa localizada no ponto mais alto do terreno. Um projeto que privilegia a vista, a integração entre os ambientes e uma arquitetura que valoriza a paisagem, a luz e a liberdade. O paisagismo completa essa experiência ao envolver a residência com uma vegetação tropical cuidadosamente composta, criando transições naturais entre arquitetura e natureza, além de reforçar a sensação de amplitude e acolhimento. Mais um capítulo desta vila, onde cada residência expressa um estilo de vida único , sem perder a conexão com o conjunto ."
+    ],
     "credits": [
       [
         "Arquitetura",
