@@ -675,7 +675,7 @@ window.PROJECTS = [
   },
   {
     "slug": "vila-real-park",
-    "title": "Vila Real Park",
+    "title": "VILA NANAC",
     "location": "Conjunto residencial",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
