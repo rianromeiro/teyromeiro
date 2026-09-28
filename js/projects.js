@@ -759,7 +759,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rnara-02-1-81553865.webp",
-    "hover": "img/uploads/rscene-32-1-bb360e8b.webp",
+    "hover": "img/uploads/casa-abraco-2be75ff6.webp",
     "heroPos": "50% 50%",
     "text": [],
     "credits": [
@@ -827,6 +827,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/gemini-generated-image-4h0z64h0z64h0z64-d825e705.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-abraco-2be75ff6.webp",
         "alt": ""
       }
     ],
