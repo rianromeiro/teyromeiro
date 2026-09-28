@@ -941,7 +941,7 @@ window.PROJECTS = [
     "credits": [
       [
         "Projeto",
-        "Tey Romeiro Arquitetura"
+        "@teyromeiro.arquitetura"
       ]
     ],
     "gallery": [
