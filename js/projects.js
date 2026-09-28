@@ -295,6 +295,97 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "casa-do-caseiro",
+    "title": "Casa do Caseiro",
+    "location": "Angra dos Reis, RJ",
+    "place": "Angra dos Reis, RJ",
+    "category": "Residencial",
+    "year": "2026",
+    "area": "109,68m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo"
+    ],
+    "cover": "img/caseiro-frente.webp",
+    "hover": "img/caseiro-aerea.webp",
+    "heroPos": "50% 55%",
+    "lead": "Uma casa simples em sua essência, mas generosa em cada escolha.",
+    "text": [
+      "Uma história bonita que tivemos o privilégio de participar. Esta não é apenas uma casa de caseiro: é cuidado, respeito e valorização de quem vai morar ali. Em uma ilha de Angra dos Reis, ela foi pensada para uma família muito especial, que quis oferecer a essas pessoas aquilo que elas merecem — qualidade de vida, conforto e uma morada acolhedora.",
+      "Implantada em um dos pontos mais altos do terreno, a casa tem o mar como cenário e a natureza como parte da experiência de morar. A varanda suspensa em deck de madeira, o telhado de telha cerâmica sobre estrutura roliça, as paredes em tom de terra e as janelas com venezianas coloridas fazem a ponte com a arquitetura tradicional da região.",
+      "Embora tenha sido concebida para ser a casa do caseiro, acabou se tornando uma verdadeira casa dos sonhos: um lugar para acordar com o mar, viver em contato com a natureza e sentir que existe beleza também nas coisas simples.",
+      "A arquitetura é também isso — entender que cada pessoa merece uma casa que acolha, respeite e proporcione uma vida melhor."
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @mttpires.au"
+      ],
+      [
+        "Conjunto",
+        "Projeto da mesma família da Casa na Ilha"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/caseiro-aerea.webp",
+        "alt": "Vista aérea do terreno com a casa do caseiro no alto e a casa principal junto ao mar"
+      },
+      {
+        "src": "img/caseiro-estar.webp",
+        "alt": "Estar e jantar com teto de madeira, luminárias de fibra e vista para o mar"
+      },
+      {
+        "src": "img/caseiro-varanda.webp",
+        "alt": "Varanda em deck de madeira com pergolado e vista para o mar"
+      },
+      {
+        "src": "img/caseiro-frente.webp",
+        "alt": "Fachada da casa com venezianas azuis e varanda suspensa sobre o jardim"
+      },
+      {
+        "src": "img/caseiro-lateral.webp",
+        "alt": "Vista lateral da casa com a escada de madeira de acesso à varanda"
+      },
+      {
+        "src": "img/caseiro-jardim.webp",
+        "alt": "A casa entre palmeiras e o jardim de forrações e gramíneas"
+      },
+      {
+        "src": "img/uploads/rendercaseiro-01-03a47f57.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-62-8a180ecd.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-63-05565b99.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-68-b2d9539f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-77-b0844dcf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-80-24146b45.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "casa-guga-vila-nanac",
     "title": "CASA GUGA - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -396,97 +487,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/rscene-24-1-323f0ffc.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
-    "slug": "casa-do-caseiro",
-    "title": "Casa do Caseiro",
-    "location": "Angra dos Reis, RJ",
-    "place": "Angra dos Reis, RJ",
-    "category": "Residencial",
-    "year": "2026",
-    "area": "109,68m²",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo"
-    ],
-    "cover": "img/caseiro-frente.webp",
-    "hover": "img/caseiro-aerea.webp",
-    "heroPos": "50% 55%",
-    "lead": "Uma casa simples em sua essência, mas generosa em cada escolha.",
-    "text": [
-      "Uma história bonita que tivemos o privilégio de participar. Esta não é apenas uma casa de caseiro: é cuidado, respeito e valorização de quem vai morar ali. Em uma ilha de Angra dos Reis, ela foi pensada para uma família muito especial, que quis oferecer a essas pessoas aquilo que elas merecem — qualidade de vida, conforto e uma morada acolhedora.",
-      "Implantada em um dos pontos mais altos do terreno, a casa tem o mar como cenário e a natureza como parte da experiência de morar. A varanda suspensa em deck de madeira, o telhado de telha cerâmica sobre estrutura roliça, as paredes em tom de terra e as janelas com venezianas coloridas fazem a ponte com a arquitetura tradicional da região.",
-      "Embora tenha sido concebida para ser a casa do caseiro, acabou se tornando uma verdadeira casa dos sonhos: um lugar para acordar com o mar, viver em contato com a natureza e sentir que existe beleza também nas coisas simples.",
-      "A arquitetura é também isso — entender que cada pessoa merece uma casa que acolha, respeite e proporcione uma vida melhor."
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @mttpires.au"
-      ],
-      [
-        "Conjunto",
-        "Projeto da mesma família da Casa na Ilha"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/caseiro-aerea.webp",
-        "alt": "Vista aérea do terreno com a casa do caseiro no alto e a casa principal junto ao mar"
-      },
-      {
-        "src": "img/caseiro-estar.webp",
-        "alt": "Estar e jantar com teto de madeira, luminárias de fibra e vista para o mar"
-      },
-      {
-        "src": "img/caseiro-varanda.webp",
-        "alt": "Varanda em deck de madeira com pergolado e vista para o mar"
-      },
-      {
-        "src": "img/caseiro-frente.webp",
-        "alt": "Fachada da casa com venezianas azuis e varanda suspensa sobre o jardim"
-      },
-      {
-        "src": "img/caseiro-lateral.webp",
-        "alt": "Vista lateral da casa com a escada de madeira de acesso à varanda"
-      },
-      {
-        "src": "img/caseiro-jardim.webp",
-        "alt": "A casa entre palmeiras e o jardim de forrações e gramíneas"
-      },
-      {
-        "src": "img/uploads/rendercaseiro-01-03a47f57.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-62-8a180ecd.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-63-05565b99.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-68-b2d9539f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-77-b0844dcf.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-80-24146b45.webp",
         "alt": ""
       }
     ],
