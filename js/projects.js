@@ -1031,7 +1031,7 @@ window.PROJECTS = [
   },
   {
     "slug": "casa-cadu-vila-nanac",
-    "title": "CASA CADU - VILA NANAC",
+    "title": "CASA DO COMPASSO - VILA NANAC",
     "place": "Res. Real Park Mogi II- Mogi das Cruzes - SP",
     "category": "Residencial",
     "year": "2024",
