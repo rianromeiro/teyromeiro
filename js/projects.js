@@ -2,7 +2,7 @@
 window.PROJECTS = [
   {
     "slug": "casa-maya",
-    "title": "Casa Maya",
+    "title": "Casa MAYA",
     "location": "Riviera de São Lourenço, SP",
     "place": "Riviera de São Lourenço, SP",
     "category": "Residencial",
