@@ -1074,7 +1074,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/esquina-8ec04692.webp",
-    "hover": "img/uploads/casa-compasso-93906b75.webp",
+    "hover": "img/uploads/casa-compasso-f1c36ee8.webp",
     "heroPos": "58% 73%",
     "lead": "Uma casa onde a música, a natureza e os encontros se harmonizam.",
     "text": [
@@ -1144,7 +1144,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/casa-compasso-93906b75.webp",
+        "src": "img/uploads/casa-compasso-f1c36ee8.webp",
         "alt": ""
       },
       {
