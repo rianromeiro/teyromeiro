@@ -188,6 +188,9 @@ window.PROJECTS = [
     "location": "Angra dos Reis, RJ",
     "place": "Angra dos Reis, RJ",
     "category": "Residencial",
+    "year": "2026",
+    "area": "401,57",
+    "status": "Em obra",
     "tags": [
       "Arquitetura",
       "Interiores",
@@ -195,7 +198,7 @@ window.PROJECTS = [
     ],
     "cover": "img/uploads/renderscene-38-2d5ae1a9.webp",
     "hover": "img/angra-frontal.jpg",
-    "heroPos": "50% 50%",
+    "heroPos": "51% 66%",
     "lead": "Um projeto que nasce do encontro entre arquitetura, natureza e mar.",
     "text": [
       "Um projeto que nasce do encontro entre arquitetura, natureza e mar, valorizando a paisagem, a leveza dos materiais e a experiência de viver esse lugar tão especial.",
