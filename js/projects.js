@@ -852,7 +852,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rscene-38-1-0eacc95e.webp",
-    "hover": "img/uploads/casa-horizonte-16fd68fc.webp",
+    "hover": "img/uploads/casa-horizonte-f69b5362.webp",
     "heroPos": "51% 63%",
     "lead": "Uma arquitetura que celebra a liberdade de viver e a alegria de reunir.",
     "text": [
@@ -934,7 +934,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/casa-horizonte-16fd68fc.webp",
+        "src": "img/uploads/casa-horizonte-f69b5362.webp",
         "alt": ""
       },
       {
