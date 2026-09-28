@@ -955,7 +955,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rscene-59-1-de0cecfc.webp",
-    "hover": "img/uploads/rscene-54-2-58b7e812.webp",
+    "hover": "img/uploads/casa-dos-encontros-d1c83a7e.webp",
     "heroPos": "45% 65%",
     "text": [],
     "credits": [
@@ -1043,6 +1043,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/rscene-78-1-053d5c39.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-dos-encontros-d1c83a7e.webp",
         "alt": ""
       }
     ],
