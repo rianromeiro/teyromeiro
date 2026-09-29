@@ -23,15 +23,15 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
+        "src": "img/uploads/vista-sala-002-bd55fb0b.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/sala-8a33e485.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/vista-sala-df578675.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-sala-002-bd55fb0b.webp",
         "alt": ""
       },
       {
