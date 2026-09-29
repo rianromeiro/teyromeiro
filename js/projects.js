@@ -11,7 +11,8 @@ window.PROJECTS = [
     "tags": [
       "Interiores"
     ],
-    "cover": "img/uploads/banheiro-social-8c7cacb3.webp",
+    "cover": "img/uploads/vista-sala-002-bd55fb0b.webp",
+    "hover": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
     "heroPos": "50% 50%",
     "text": [],
     "credits": [
