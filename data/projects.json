@@ -1,5 +1,98 @@
 [
   {
+    "slug": "apartamento-lauren",
+    "title": "APARTAMENTO LAUREN",
+    "place": "Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "68,08",
+    "status": "Concluído",
+    "tags": [
+      "Interiores"
+    ],
+    "cover": "img/uploads/banheiro-social-8c7cacb3.webp",
+    "heroPos": "50% 50%",
+    "text": [],
+    "credits": [
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/sala-8a33e485.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-sala-df578675.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-sala-002-bd55fb0b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-sala-02-2865e0db.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-53-00-f20dbecb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-19-de-fev-de-2026-17-31-41-0b7e77a5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-49-48-c8ef273a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-01-dc91c11f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-002-ec8797a1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-02-0dfca734.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-suite-02-682b3beb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-suite-01-1-2734e0cd.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-03-379fb12a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-banheiro-suite-1d88e1d8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-banheiro-suite-01-9a00e390.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/banheiro-social-8c7cacb3.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "casa-maya",
     "title": "Casa MAYA",
     "location": "Riviera de São Lourenço, SP",
@@ -101,7 +194,7 @@
     ],
     "cover": "img/terahub-lateral.jpg",
     "hover": "img/terahub-atrio.webp",
-    "heroPos": "36% 53%",
+    "heroPos": "50% 42%",
     "lead": "O futuro dos edifícios corporativos não será definido pela tecnologia que eles abrigam, mas pela forma como fazem as pessoas se sentirem.",
     "text": [
       "Durante muito tempo, os edifícios corporativos foram pensados para atender às necessidades das empresas. Neste projeto, decidimos inverter essa lógica. A tecnologia continua sendo protagonista, mas trabalha em silêncio — o verdadeiro centro do projeto são as pessoas.",
@@ -198,9 +291,9 @@
     "tags": [
       "Arquitetura e Interiores"
     ],
-    "cover": "img/uploads/render-final-01-editado-06c584ea.webp",
-    "hover": "img/uploads/render-final-06-editado-6e1c0c94.webp",
-    "heroPos": "60% 34%",
+    "cover": "img/uploads/render-final-06-editado-6e1c0c94.webp",
+    "hover": "img/uploads/escada-verde-claro-02-0bfd8023.webp",
+    "heroPos": "50% 50%",
     "text": [],
     "credits": [
       [
@@ -222,11 +315,11 @@
         "alt": ""
       },
       {
-        "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
+        "src": "img/uploads/capa-679cdd89.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/capa-679cdd89.webp",
+        "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
         "alt": ""
       },
       {
@@ -744,7 +837,6 @@
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rguga-03-1-970fb56f.webp",
-    "hover": "img/uploads/casajardim-c6d65e26.webp",
     "heroPos": "50% 50%",
     "lead": "Quando a natureza faz parte da casa, viver se torna uma experiência.",
     "text": [
@@ -925,6 +1017,10 @@
         "alt": ""
       },
       {
+        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/casa-abraco-e9f49c7f.webp",
         "alt": ""
       }
@@ -992,23 +1088,19 @@
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-39-1-c24beec6.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/rscene-40-1-1b3994bb.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-37-1-c0af21e5.webp",
+        "src": "img/uploads/rscene-41-1-84cb0bf3.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-41-1-84cb0bf3.webp",
+        "src": "img/uploads/rscene-39-1-c24beec6.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-37-1-c0af21e5.webp",
         "alt": ""
       },
       {
@@ -1020,11 +1112,11 @@
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-52-1-fe554f23.webp",
+        "src": "img/uploads/rscene-45-1-c39ff200.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-45-1-c39ff200.webp",
+        "src": "img/uploads/rscene-52-1-fe554f23.webp",
         "alt": ""
       },
       {
@@ -1033,6 +1125,125 @@
       },
       {
         "src": "img/uploads/casa-horizonte-f69b5362.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
+    "slug": "area-gourmet",
+    "title": "CASA DOS ENCONTROS - VILA NANAC",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "200,58m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rscene-59-1-de0cecfc.webp",
+    "hover": "img/uploads/casa-dos-encontros-91f4192d.webp",
+    "heroPos": "45% 65%",
+    "lead": "O lugar onde a família se encontra e as histórias se multiplicam.",
+    "text": [
+      "Projetado como o grande espaço de convivência da família, este ambiente reúne em um único conjunto as áreas destinadas ao lazer, ao descanso e aos encontros. A arquitetura integra área gourmet, piscina, academia em uma composição fluida, onde os espaços se conectam de forma natural e acolhem tanto o dia a dia quanto os momentos de celebração. O paisagismo complementa essa experiência ao envolver a arquitetura com vegetação tropical, criando diferentes planos visuais, qualificando os percursos e proporcionando privacidade sem comprometer a amplitude dos ambientes. O resultado é um espaço pensado para reunir gerações, receber amigos e transformar cada encontro em uma experiência acolhedora, sempre em conexão com a natureza."
+    ],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Projeto",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rscene-56-1-b90d4dbe.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-54-2-58b7e812.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-56-2-724648af.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-57-4-aa040d90.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-59-1-de0cecfc.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-60-2-23e717e2.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-66-1-782783bb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-65-2-7e3ac514.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-62-1-d4243205.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-64-1-bfa2676a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-72-1-12c65522.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-75-1-c9be3332.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-70-1-a5003545.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-73-1-c6d70bba.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-69-2-de1d45d9.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-71-1-8f52b96b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-78-1-053d5c39.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-dos-encontros-91f4192d.webp",
         "alt": ""
       }
     ],
@@ -1128,121 +1339,6 @@
       },
       {
         "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": true
-  },
-  {
-    "slug": "area-gourmet",
-    "title": "CASA DOS ENCONTROS - VILA NANAC",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "200,58m²",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/uploads/rscene-59-1-de0cecfc.webp",
-    "hover": "img/uploads/casa-dos-encontros-91f4192d.webp",
-    "heroPos": "45% 65%",
-    "lead": "O lugar onde a família se encontra e as histórias se multiplicam.",
-    "text": [
-      "Projetado como o grande espaço de convivência da família, este ambiente reúne em um único conjunto as áreas destinadas ao lazer, ao descanso e aos encontros. A arquitetura integra área gourmet, piscina, academia em uma composição fluida, onde os espaços se conectam de forma natural e acolhem tanto o dia a dia quanto os momentos de celebração. O paisagismo complementa essa experiência ao envolver a arquitetura com vegetação tropical, criando diferentes planos visuais, qualificando os percursos e proporcionando privacidade sem comprometer a amplitude dos ambientes. O resultado é um espaço pensado para reunir gerações, receber amigos e transformar cada encontro em uma experiência acolhedora, sempre em conexão com a natureza."
-    ],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Projeto",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/rscene-56-1-b90d4dbe.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-54-2-58b7e812.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-56-2-724648af.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-57-4-aa040d90.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-59-1-de0cecfc.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-60-2-23e717e2.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-66-1-782783bb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-65-2-7e3ac514.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-62-1-d4243205.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-72-1-12c65522.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-64-1-bfa2676a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-75-1-c9be3332.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-70-1-a5003545.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-73-1-c6d70bba.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-69-2-de1d45d9.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-71-1-8f52b96b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-78-1-053d5c39.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/casa-dos-encontros-91f4192d.webp",
         "alt": ""
       }
     ],
@@ -1352,9 +1448,9 @@
     "tags": [
       "Interiores"
     ],
-    "cover": "img/uploads/01-fc2ef9f9.webp",
-    "hover": "img/uploads/00-quarto-fb1a7837.webp",
-    "heroPos": "62% 57%",
+    "cover": "img/uploads/00-quarto-fb1a7837.webp",
+    "hover": "img/uploads/01-fc2ef9f9.webp",
+    "heroPos": "41% 52%",
     "text": [],
     "credits": [
       [
@@ -1413,9 +1509,9 @@
     "tags": [
       "Interiores"
     ],
-    "cover": "img/uploads/27-ac6d6b79.webp",
-    "hover": "img/uploads/06-52447fc1.webp",
-    "heroPos": "50% 50%",
+    "cover": "img/uploads/22-9199a4db.webp",
+    "hover": "img/uploads/16-48b8b231.webp",
+    "heroPos": "73% 51%",
     "lead": "Mais integração, mais encontros, mais vida!",
     "text": [
       "Uma casa de praia onde receber faz parte da sua essência . O desafio deste projeto foi transformar uma área de lazer compartimentada em um espaço fluido, integrado e acolhedor. A proposta conectou cozinha, sala, varanda gourmet e jardim com spa, ampliando a percepção dos ambientes e criando uma circulação mais livre e funcional. Cada espaço foi pensado para valorizar a convivência, trazendo conforto tanto para os momentos tranquilos em família quanto para os encontros animados . O resultado é uma arquitetura que  amplia possibilidades, aproxima pessoas e transforma a casa em um verdadeiro lugar de encontros."
@@ -1484,7 +1580,7 @@
         "alt": ""
       },
       {
-        "src": "img/uploads/05-30cff254.webp",
+        "src": "img/uploads/22-9199a4db.webp",
         "alt": ""
       },
       {
@@ -1492,7 +1588,7 @@
         "alt": ""
       },
       {
-        "src": "img/uploads/22-9199a4db.webp",
+        "src": "img/uploads/05-30cff254.webp",
         "alt": ""
       },
       {
