@@ -745,6 +745,7 @@ window.PROJECTS = [
       "Paisagismo integrado"
     ],
     "cover": "img/uploads/rguga-03-1-970fb56f.webp",
+    "hover": "img/uploads/casajardim-c6d65e26.webp",
     "heroPos": "50% 50%",
     "lead": "Quando a natureza faz parte da casa, viver se torna uma experiência.",
     "text": [
