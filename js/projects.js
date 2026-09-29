@@ -993,19 +993,23 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-40-1-1b3994bb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-41-1-84cb0bf3.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/rscene-39-1-c24beec6.webp",
         "alt": ""
       },
       {
+        "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-40-1-1b3994bb.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/rscene-37-1-c0af21e5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-41-1-84cb0bf3.webp",
         "alt": ""
       },
       {
@@ -1017,11 +1021,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-45-1-c39ff200.webp",
+        "src": "img/uploads/rscene-52-1-fe554f23.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/rscene-52-1-fe554f23.webp",
+        "src": "img/uploads/rscene-45-1-c39ff200.webp",
         "alt": ""
       },
       {
@@ -1030,10 +1034,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/casa-horizonte-f69b5362.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-48-2-f7a6c5cf.webp",
         "alt": ""
       }
     ],
