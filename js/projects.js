@@ -846,64 +846,6 @@ window.PROJECTS = [
     "featured": false
   },
   {
-    "slug": "loft-way",
-    "title": "LOFT WAY",
-    "place": "Vila Mogilar, Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2026",
-    "area": "35,35m²",
-    "status": "Em obra",
-    "tags": [
-      "Interiores"
-    ],
-    "cover": "img/uploads/vista-entrada-1a6cdf11.webp",
-    "hover": "img/uploads/vista-quarto-e-cozinha-36acabb1.webp",
-    "heroPos": "50% 50%",
-    "text": [],
-    "credits": [
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Equipe",
-        "@arquitetamariaeduardaw"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/vista-cozinha-14518a94.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-entrada-1a6cdf11.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-quarto-e-cozinha-36acabb1.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-gourmet-e-quarto-446521d5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-3-de-ago-de-2026-17-29-47-97d1e105.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-entrda-02-8dc0bb58.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-3-08-2026-17-30-08-29978065.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
     "slug": "casa-nara-vila-nanac",
     "title": "CASA ABRAÇO - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -988,6 +930,64 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/casa-abraco-e9f49c7f.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
+    "slug": "loft-way",
+    "title": "LOFT WAY",
+    "place": "Vila Mogilar, Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2026",
+    "area": "35,35m²",
+    "status": "Em obra",
+    "tags": [
+      "Interiores"
+    ],
+    "cover": "img/uploads/vista-entrada-1a6cdf11.webp",
+    "hover": "img/uploads/vista-quarto-e-cozinha-36acabb1.webp",
+    "heroPos": "50% 50%",
+    "text": [],
+    "credits": [
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Equipe",
+        "@arquitetamariaeduardaw"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/vista-cozinha-14518a94.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-entrada-1a6cdf11.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-quarto-e-cozinha-36acabb1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-gourmet-e-quarto-446521d5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-3-de-ago-de-2026-17-29-47-97d1e105.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-entrda-02-8dc0bb58.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-3-08-2026-17-30-08-29978065.webp",
         "alt": ""
       }
     ],
