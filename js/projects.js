@@ -846,6 +846,97 @@ window.PROJECTS = [
     "featured": false
   },
   {
+    "slug": "casa-nara-vila-nanac",
+    "title": "CASA ABRAÇO - VILA NANAC",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "305,33",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/rnara-02-1-81553865.webp",
+    "hover": "img/uploads/casa-abraco-e9f49c7f.webp",
+    "heroPos": "50% 50%",
+    "lead": "No coração da vila, a arquitetura se transforma em abraço.",
+    "text": [
+      "Esta casa apresenta uma linguagem própria. Continuando as casa da nossa reinterpretação moderna e sofisticada das antigas vilas familiares, esta casa é muito especial, ela é protegida por todas as outras tendo o melhor lugar de todas. É a casa da Mãe. A Implantação ficou incrivelmente poética. A arquitetura, quando bem pensada, materializa os sentimentos dos clientes, e essa configuração em formato de \"abraço\" ou \"escudo\" em torno da mãe é a prova viva disso. Enquanto as residências dos filhos seguem uma linha moderna e atemporal, a casa da mãe ganha um toque clássico e acolhedor, respeitando a identidade de cada um. O paisagismo acompanha essa proposta com delicadeza. Árvores floridas, vasos ornamentais e maciços vegetais cuidadosamente distribuídos emolduram a arquitetura, suavizam os volumes construídos e criam uma atmosfera acolhedora desde a chegada."
+    ],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/rnara-01-2-4fd3ca38.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rnara-02-1-81553865.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-hqoxpxhqoxpxhqox-3e6ec012.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-31-1-6a9a5eb5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-32-1-bb360e8b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-28-2-c31a6bdf.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-30-1-cecbe46c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-27-1-86fffe0a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-29-1-c6528a77.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-4h0z64h0z64h0z64-d825e705.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-abraco-e9f49c7f.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "apartamento-lauren",
     "title": "APARTAMENTO LAUREN",
     "place": "Mogi das Cruzes - SP",
@@ -933,97 +1024,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/maquete-3d-lauren0001-7ebdc535.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
-    "slug": "casa-nara-vila-nanac",
-    "title": "CASA ABRAÇO - VILA NANAC",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "305,33",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/uploads/rnara-02-1-81553865.webp",
-    "hover": "img/uploads/casa-abraco-e9f49c7f.webp",
-    "heroPos": "50% 50%",
-    "lead": "No coração da vila, a arquitetura se transforma em abraço.",
-    "text": [
-      "Esta casa apresenta uma linguagem própria. Continuando as casa da nossa reinterpretação moderna e sofisticada das antigas vilas familiares, esta casa é muito especial, ela é protegida por todas as outras tendo o melhor lugar de todas. É a casa da Mãe. A Implantação ficou incrivelmente poética. A arquitetura, quando bem pensada, materializa os sentimentos dos clientes, e essa configuração em formato de \"abraço\" ou \"escudo\" em torno da mãe é a prova viva disso. Enquanto as residências dos filhos seguem uma linha moderna e atemporal, a casa da mãe ganha um toque clássico e acolhedor, respeitando a identidade de cada um. O paisagismo acompanha essa proposta com delicadeza. Árvores floridas, vasos ornamentais e maciços vegetais cuidadosamente distribuídos emolduram a arquitetura, suavizam os volumes construídos e criam uma atmosfera acolhedora desde a chegada."
-    ],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/rnara-01-2-4fd3ca38.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rnara-02-1-81553865.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-hqoxpxhqoxpxhqox-3e6ec012.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-31-1-6a9a5eb5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-32-1-bb360e8b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-28-2-c31a6bdf.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-30-1-cecbe46c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-27-1-86fffe0a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-29-1-c6528a77.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-4h0z64h0z64h0z64-d825e705.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/casa-abraco-e9f49c7f.webp",
         "alt": ""
       }
     ],
