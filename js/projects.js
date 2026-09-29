@@ -13,7 +13,7 @@ window.PROJECTS = [
     ],
     "cover": "img/uploads/vista-sala-002-bd55fb0b.webp",
     "hover": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
-    "heroPos": "50% 50%",
+    "heroPos": "71% 52%",
     "text": [],
     "credits": [
       [
@@ -84,6 +84,10 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/banheiro-social-8c7cacb3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/maquete-3d-lauren0001-7ebdc535.webp",
         "alt": ""
       }
     ],
