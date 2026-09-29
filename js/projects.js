@@ -378,68 +378,6 @@ window.PROJECTS = [
     "featured": false
   },
   {
-    "slug": "apartamento-fred-nagib",
-    "title": "APARTAMENTO FRED NAGIB",
-    "place": "Higienópolis - SP",
-    "category": "Residencial",
-    "year": "2025",
-    "area": "44,45m²",
-    "status": "Em obra",
-    "tags": [
-      "Interiores"
-    ],
-    "cover": "img/uploads/00-quarto-fb1a7837.webp",
-    "hover": "img/uploads/01-fc2ef9f9.webp",
-    "heroPos": "41% 52%",
-    "text": [],
-    "credits": [
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Equipe",
-        "@arquitetamariaeduardaw"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/01-fc2ef9f9.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/02-a91643d6.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/00-hall-de-entrada-14e07b79.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/00-quarto-fb1a7837.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/03-8ed1040b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/04-c3b09a45.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/banho-01-568c062a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/banho-02-91c4c433.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
     "slug": "casa-angra",
     "title": "Casa na Ilha",
     "location": "Angra dos Reis, RJ",
@@ -548,6 +486,68 @@ window.PROJECTS = [
     ],
     "published": true,
     "featured": true
+  },
+  {
+    "slug": "apartamento-fred-nagib",
+    "title": "APARTAMENTO FRED NAGIB",
+    "place": "Higienópolis - SP",
+    "category": "Residencial",
+    "year": "2025",
+    "area": "44,45m²",
+    "status": "Em obra",
+    "tags": [
+      "Interiores"
+    ],
+    "cover": "img/uploads/00-quarto-fb1a7837.webp",
+    "hover": "img/uploads/01-fc2ef9f9.webp",
+    "heroPos": "41% 52%",
+    "text": [],
+    "credits": [
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Equipe",
+        "@arquitetamariaeduardaw"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/01-fc2ef9f9.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/02-a91643d6.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/00-hall-de-entrada-14e07b79.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/00-quarto-fb1a7837.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/03-8ed1040b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/04-c3b09a45.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/banho-01-568c062a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/banho-02-91c4c433.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
   },
   {
     "slug": "chacara-k-a",
