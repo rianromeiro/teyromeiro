@@ -1485,7 +1485,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/22-9199a4db.webp",
+        "src": "img/uploads/05-30cff254.webp",
         "alt": ""
       },
       {
@@ -1493,7 +1493,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/05-30cff254.webp",
+        "src": "img/uploads/22-9199a4db.webp",
         "alt": ""
       },
       {
