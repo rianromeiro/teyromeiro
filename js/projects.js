@@ -30,6 +30,10 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
+        "src": "img/uploads/render-final-03-editado-02d224c0.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/capa-679cdd89.webp",
         "alt": ""
       },
@@ -39,10 +43,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/render-final-01-editado-06c584ea.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/render-final-03-editado-02d224c0.webp",
         "alt": ""
       },
       {
