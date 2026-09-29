@@ -1044,6 +1044,101 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "casa-cadu-vila-nanac",
+    "title": "CASA DO COMPASSO - VILA NANAC",
+    "place": "Res. Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "271,23",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Interiores",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/uploads/esquina-8ec04692.webp",
+    "hover": "img/uploads/casa-compasso-f1c36ee8.webp",
+    "heroPos": "58% 73%",
+    "lead": "Uma casa onde a música, a natureza e os encontros se harmonizam.",
+    "text": [
+      "Chegamos à casa localizada no ponto mais alto do terreno. Um projeto que privilegia a vista, a integração entre os ambientes e uma arquitetura que valoriza a paisagem, a luz e a liberdade. O paisagismo completa essa experiência ao envolver a residência com uma vegetação tropical cuidadosamente composta, criando transições naturais entre arquitetura e natureza, além de reforçar a sensação de amplitude e acolhimento. Mais um capítulo desta vila, onde cada residência expressa um estilo de vida único , sem perder a conexão com o conjunto ."
+    ],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/image-fdfe0265.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/scene-100-78cc2679.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/esquina-8ec04692.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-82-1-94c94990.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-86-1-532722d0.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-87-2-0b1a6d2a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-90-1-3fa5fa4b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-88-1-a5977315.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-92-1-e3f8cb96.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/rscene-91-1-68f32a76.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/caduscene-93-2-112bc46a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/casa-compasso-f1c36ee8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "area-gourmet",
     "title": "CASA DOS ENCONTROS - VILA NANAC",
     "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
@@ -1152,101 +1247,6 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/casa-dos-encontros-91f4192d.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": true
-  },
-  {
-    "slug": "casa-cadu-vila-nanac",
-    "title": "CASA DO COMPASSO - VILA NANAC",
-    "place": "Res. Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "271,23",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Interiores",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/uploads/esquina-8ec04692.webp",
-    "hover": "img/uploads/casa-compasso-f1c36ee8.webp",
-    "heroPos": "58% 73%",
-    "lead": "Uma casa onde a música, a natureza e os encontros se harmonizam.",
-    "text": [
-      "Chegamos à casa localizada no ponto mais alto do terreno. Um projeto que privilegia a vista, a integração entre os ambientes e uma arquitetura que valoriza a paisagem, a luz e a liberdade. O paisagismo completa essa experiência ao envolver a residência com uma vegetação tropical cuidadosamente composta, criando transições naturais entre arquitetura e natureza, além de reforçar a sensação de amplitude e acolhimento. Mais um capítulo desta vila, onde cada residência expressa um estilo de vida único , sem perder a conexão com o conjunto ."
-    ],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/image-fdfe0265.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/scene-100-78cc2679.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/esquina-8ec04692.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-82-1-94c94990.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-86-1-532722d0.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-87-2-0b1a6d2a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-90-1-3fa5fa4b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-88-1-a5977315.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-92-1-e3f8cb96.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/rscene-91-1-68f32a76.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/caduscene-93-2-112bc46a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/casa-compasso-f1c36ee8.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/caduscene-80-2-e31f2e27.webp",
         "alt": ""
       }
     ],
