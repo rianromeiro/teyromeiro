@@ -1253,6 +1253,98 @@
     "featured": true
   },
   {
+    "slug": "residencia-c-l",
+    "title": "Residência C & L",
+    "place": "Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "area": "161,88m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura"
+    ],
+    "cover": "img/uploads/renderscene-13-69c5e63c.webp",
+    "hover": "img/uploads/renderscene-2-cc0695fb.webp",
+    "heroPos": "50% 50%",
+    "lead": "Uma casa para viver no ritmo da natureza",
+    "text": [
+      "Este projeto nasceu de um encontro de propósitos. Um casal com a alma no mar e o surt como estilo de vida, com o olhar totalmente voltado à preservação da Natureza, agora com a família crescendo • O pedido? Uma casa que fosse, ao mesmo tempo, um santuário de paz e o palco perfeito para receber os amigos com a casa cheia. O desafio foi transformar uma metragem compacta em uma experiência de imensidão. Mais do que paredes, entregamos um lugar sagrado. Um porto seguro que respeita o entorno e abraça quem entra. Uma arquitetura afetiva que entende que o luxo real está na conexão com o que é essencial. Que essa casa seja o cenário de memórias inesquecíveis para essa nova família que cresce. Qual desses elementos mais te conecta com a natureza: a transparência do vidro, o aterramento das pedras ou o calor da madeira?"
+    ],
+    "credits": [
+      [
+        "Projeto",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/renderscene-2-cc0695fb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-5-ee71955a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-6-582e5493.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-8-bb8c7c81.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-9-89cc2226.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-11-0cb5b449.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-13-69c5e63c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-15-22ce179c.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-16-9c403c12.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-17-386c8a11.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-18-2d0654be.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-21-4b0e487f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-27-886e0208.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-28-9a477c56.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/renderscene-33-2b627700.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "apartamento-lauren",
     "title": "APARTAMENTO LAUREN",
     "place": "Mogi das Cruzes - SP",
@@ -1340,98 +1432,6 @@
       },
       {
         "src": "img/uploads/maquete-3d-lauren0001-7ebdc535.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
-    "slug": "residencia-c-l",
-    "title": "Residência C & L",
-    "place": "Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "area": "161,88m²",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura"
-    ],
-    "cover": "img/uploads/renderscene-13-69c5e63c.webp",
-    "hover": "img/uploads/renderscene-2-cc0695fb.webp",
-    "heroPos": "50% 50%",
-    "lead": "Uma casa para viver no ritmo da natureza",
-    "text": [
-      "Este projeto nasceu de um encontro de propósitos. Um casal com a alma no mar e o surt como estilo de vida, com o olhar totalmente voltado à preservação da Natureza, agora com a família crescendo • O pedido? Uma casa que fosse, ao mesmo tempo, um santuário de paz e o palco perfeito para receber os amigos com a casa cheia. O desafio foi transformar uma metragem compacta em uma experiência de imensidão. Mais do que paredes, entregamos um lugar sagrado. Um porto seguro que respeita o entorno e abraça quem entra. Uma arquitetura afetiva que entende que o luxo real está na conexão com o que é essencial. Que essa casa seja o cenário de memórias inesquecíveis para essa nova família que cresce. Qual desses elementos mais te conecta com a natureza: a transparência do vidro, o aterramento das pedras ou o calor da madeira?"
-    ],
-    "credits": [
-      [
-        "Projeto",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/renderscene-2-cc0695fb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-5-ee71955a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-6-582e5493.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-8-bb8c7c81.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-9-89cc2226.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-11-0cb5b449.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-13-69c5e63c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-15-22ce179c.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-16-9c403c12.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-17-386c8a11.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-18-2d0654be.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-21-4b0e487f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-27-886e0208.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-28-9a477c56.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/renderscene-33-2b627700.webp",
         "alt": ""
       }
     ],
