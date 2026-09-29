@@ -27,15 +27,15 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
-        "src": "img/uploads/00-hall-de-entrada-14e07b79.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/01-fc2ef9f9.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/02-a91643d6.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/00-hall-de-entrada-14e07b79.webp",
         "alt": ""
       },
       {
