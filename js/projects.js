@@ -43,15 +43,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/chatgpt-image-19-de-fev-de-2026-17-31-41-0b7e77a5.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-49-48-c8ef273a.webp",
         "alt": ""
       },
       {
-        "src": "img/uploads/quarto-social-01-dc91c11f.webp",
+        "src": "img/uploads/chatgpt-image-19-de-fev-de-2026-17-31-41-0b7e77a5.webp",
         "alt": ""
       },
       {
@@ -63,7 +59,11 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/quarto-suite-02-682b3beb.webp",
+        "src": "img/uploads/quarto-social-01-dc91c11f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-03-379fb12a.webp",
         "alt": ""
       },
       {
@@ -71,7 +71,7 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/quarto-social-03-379fb12a.webp",
+        "src": "img/uploads/quarto-suite-02-682b3beb.webp",
         "alt": ""
       },
       {
