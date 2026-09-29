@@ -926,10 +926,6 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/gemini-generated-image-w10btfw10btfw10b-346fd5e3.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/casa-abraco-e9f49c7f.webp",
         "alt": ""
       }
