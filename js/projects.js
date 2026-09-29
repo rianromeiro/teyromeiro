@@ -672,6 +672,66 @@ window.PROJECTS = [
     "featured": true
   },
   {
+    "slug": "vila-real-park",
+    "title": "VILA NANAC",
+    "location": "Conjunto residencial",
+    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura",
+      "Paisagismo integrado"
+    ],
+    "cover": "img/vila-rua.jpg",
+    "hover": "img/vila-aerea.jpg",
+    "heroPos": "50% 70%",
+    "lead": "Mais do que projetar residências, o desafio foi criar um lugar de convivência.",
+    "text": [
+      "Desenvolvido para uma mesma família, o projeto nasceu do desejo de manter a proximidade entre os seus membros sem abrir mão da individualidade de cada residência.",
+      "Arquitetura e paisagismo foram concebidos em conjunto para construir uma experiência integrada, onde os limites se tornam mais sutis e a natureza assume o papel de conexão entre os espaços.",
+      "Sem barreiras visuais marcantes, os jardins se entrelaçam, os percursos se conectam e a paisagem cria unidade entre as diferentes construções — promovendo privacidade, convivência e bem-estar."
+    ],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Paisagismo",
+        "@atelieseiva.paisagismo"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/vila-aerea.jpg",
+        "alt": "Vista aérea do conjunto de residências com jardins integrados e piscina"
+      },
+      {
+        "src": "img/vila-encosta.jpg",
+        "alt": "As residências acompanhando a curva da rua e a topografia"
+      },
+      {
+        "src": "img/vila-aerea-2.jpg",
+        "alt": "Vista aérea das entradas das residências e dos acessos ajardinados"
+      },
+      {
+        "src": "img/vila-rua.jpg",
+        "alt": "Fachadas voltadas para a rua com escadarias e canteiros floridos"
+      }
+    ],
+    "published": true,
+    "featured": true
+  },
+  {
     "slug": "apartamento-fred-nagib",
     "title": "APARTAMENTO FRED NAGIB",
     "place": "Higienópolis - SP",
@@ -732,66 +792,6 @@ window.PROJECTS = [
     ],
     "published": true,
     "featured": false
-  },
-  {
-    "slug": "vila-real-park",
-    "title": "VILA NANAC",
-    "location": "Conjunto residencial",
-    "place": "Res, Real Park Mogi II- Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "status": "Em obra",
-    "tags": [
-      "Arquitetura",
-      "Paisagismo integrado"
-    ],
-    "cover": "img/vila-rua.jpg",
-    "hover": "img/vila-aerea.jpg",
-    "heroPos": "50% 70%",
-    "lead": "Mais do que projetar residências, o desafio foi criar um lugar de convivência.",
-    "text": [
-      "Desenvolvido para uma mesma família, o projeto nasceu do desejo de manter a proximidade entre os seus membros sem abrir mão da individualidade de cada residência.",
-      "Arquitetura e paisagismo foram concebidos em conjunto para construir uma experiência integrada, onde os limites se tornam mais sutis e a natureza assume o papel de conexão entre os espaços.",
-      "Sem barreiras visuais marcantes, os jardins se entrelaçam, os percursos se conectam e a paisagem cria unidade entre as diferentes construções — promovendo privacidade, convivência e bem-estar."
-    ],
-    "credits": [
-      [
-        "Arquitetura",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ],
-      [
-        "Paisagismo",
-        "@atelieseiva.paisagismo"
-      ],
-      [
-        "Equipe",
-        "@brunosouza.sp_ · @arquitetamariaeduardaw · @gabijamacaru"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/vila-aerea.jpg",
-        "alt": "Vista aérea do conjunto de residências com jardins integrados e piscina"
-      },
-      {
-        "src": "img/vila-encosta.jpg",
-        "alt": "As residências acompanhando a curva da rua e a topografia"
-      },
-      {
-        "src": "img/vila-aerea-2.jpg",
-        "alt": "Vista aérea das entradas das residências e dos acessos ajardinados"
-      },
-      {
-        "src": "img/vila-rua.jpg",
-        "alt": "Fachadas voltadas para a rua com escadarias e canteiros floridos"
-      }
-    ],
-    "published": true,
-    "featured": true
   },
   {
     "slug": "casa-guga-vila-nanac",
