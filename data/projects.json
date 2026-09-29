@@ -1,5 +1,102 @@
 [
   {
+    "slug": "moretti-seguros",
+    "title": "MORETTI SEGUROS",
+    "place": "Vila Oliveira, Mogi das Cruzes - SP",
+    "category": "Corporativo",
+    "year": "2025",
+    "area": "474,97m²",
+    "status": "Em obra",
+    "tags": [
+      "Arquitetura e Interiores"
+    ],
+    "cover": "img/uploads/render-final-06-editado-6e1c0c94.webp",
+    "heroPos": "50% 50%",
+    "text": [],
+    "credits": [
+      [
+        "Arquitetura",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ],
+      [
+        "Equipe",
+        "@brunosouza.sp_ · @arquitetamariaeduardaw"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/capa-679cdd89.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-final-01-editado-06c584ea.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-final-03-editado-02d224c0.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-3-07-2026-14-40-12-214762eb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-3-07-2026-14-44-08-2b9c0728.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-claro-01-4fced49e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-claro-02-0bfd8023.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-claro-03-7c3da46a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-claro-04-8939e620.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-escuro-01-e434e90f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escada-verde-escuro-04-96b52bff.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/hall-entrada-parede-armario-17f0e527.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escritorio-metade-2-2a9cdb73.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/escritorio-metade-1-05b5f310.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/render-final-06-editado-6e1c0c94.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
     "slug": "casa-maya",
     "title": "Casa MAYA",
     "location": "Riviera de São Lourenço, SP",
