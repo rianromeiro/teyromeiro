@@ -27,10 +27,6 @@ window.PROJECTS = [
         "alt": ""
       },
       {
-        "src": "img/uploads/sala-8a33e485.webp",
-        "alt": ""
-      },
-      {
         "src": "img/uploads/vista-sala-df578675.webp",
         "alt": ""
       },
