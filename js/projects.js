@@ -199,9 +199,9 @@ window.PROJECTS = [
     "tags": [
       "Arquitetura e Interiores"
     ],
-    "cover": "img/uploads/render-final-06-editado-6e1c0c94.webp",
-    "hover": "img/uploads/escada-verde-claro-02-0bfd8023.webp",
-    "heroPos": "50% 50%",
+    "cover": "img/uploads/render-final-01-editado-06c584ea.webp",
+    "hover": "img/uploads/escritorio-metade-1-05b5f310.webp",
+    "heroPos": "60% 34%",
     "text": [],
     "credits": [
       [
@@ -219,15 +219,15 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
+        "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/render-final-03-editado-02d224c0.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/capa-679cdd89.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
         "alt": ""
       },
       {
