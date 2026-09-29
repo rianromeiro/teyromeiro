@@ -1408,100 +1408,6 @@ window.PROJECTS = [
     "featured": false
   },
   {
-    "slug": "apartamento-lauren",
-    "title": "APARTAMENTO LAUREN",
-    "place": "Mogi das Cruzes - SP",
-    "category": "Residencial",
-    "year": "2024",
-    "area": "68,08",
-    "status": "Concluído",
-    "tags": [
-      "Interiores"
-    ],
-    "cover": "img/uploads/vista-sala-002-bd55fb0b.webp",
-    "hover": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
-    "heroPos": "71% 52%",
-    "text": [],
-    "credits": [
-      [
-        "Interiores",
-        "@teyromeiro.arquitetura"
-      ]
-    ],
-    "gallery": [
-      {
-        "src": "img/uploads/vista-sala-002-bd55fb0b.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-sala-df578675.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-sala-02-2865e0db.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-53-00-f20dbecb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-49-48-c8ef273a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/chatgpt-image-19-de-fev-de-2026-17-31-41-0b7e77a5.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-social-002-ec8797a1.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-social-02-0dfca734.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-social-01-dc91c11f.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-social-03-379fb12a.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-banheiro-suite-01-9a00e390.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/vista-banheiro-suite-1d88e1d8.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-suite-02-682b3beb.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/quarto-suite-01-1-2734e0cd.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/banheiro-social-8c7cacb3.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/maquete-3d-lauren0001-7ebdc535.webp",
-        "alt": ""
-      }
-    ],
-    "published": true,
-    "featured": false
-  },
-  {
     "slug": "casa-m-r",
     "title": "Casa M & R",
     "place": "Praia Barra do Sahy - Litoral Norte - SP",
@@ -1599,6 +1505,100 @@ window.PROJECTS = [
       },
       {
         "src": "img/uploads/13-eab66830.webp",
+        "alt": ""
+      }
+    ],
+    "published": true,
+    "featured": false
+  },
+  {
+    "slug": "apartamento-lauren",
+    "title": "APARTAMENTO LAUREN",
+    "place": "Mogi das Cruzes - SP",
+    "category": "Residencial",
+    "year": "2024",
+    "area": "68,08",
+    "status": "Concluído",
+    "tags": [
+      "Interiores"
+    ],
+    "cover": "img/uploads/vista-sala-002-bd55fb0b.webp",
+    "hover": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
+    "heroPos": "71% 52%",
+    "text": [],
+    "credits": [
+      [
+        "Interiores",
+        "@teyromeiro.arquitetura"
+      ]
+    ],
+    "gallery": [
+      {
+        "src": "img/uploads/vista-sala-002-bd55fb0b.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-sala-df578675.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-sala-02-2865e0db.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-19-02-2026-17-37-40-e34c8f6e.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-53-00-f20dbecb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-20-de-fev-de-2026-11-49-48-c8ef273a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/chatgpt-image-19-de-fev-de-2026-17-31-41-0b7e77a5.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-002-ec8797a1.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-02-0dfca734.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-01-dc91c11f.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-social-03-379fb12a.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-banheiro-suite-01-9a00e390.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/vista-banheiro-suite-1d88e1d8.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-suite-02-682b3beb.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/quarto-suite-01-1-2734e0cd.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/banheiro-social-8c7cacb3.webp",
+        "alt": ""
+      },
+      {
+        "src": "img/uploads/maquete-3d-lauren0001-7ebdc535.webp",
         "alt": ""
       }
     ],
