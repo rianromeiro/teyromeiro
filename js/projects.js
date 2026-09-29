@@ -12,6 +12,7 @@ window.PROJECTS = [
       "Arquitetura e Interiores"
     ],
     "cover": "img/uploads/render-final-06-editado-6e1c0c94.webp",
+    "hover": "img/uploads/escada-verde-claro-02-0bfd8023.webp",
     "heroPos": "50% 50%",
     "text": [],
     "credits": [
