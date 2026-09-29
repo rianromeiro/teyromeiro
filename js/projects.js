@@ -102,7 +102,7 @@ window.PROJECTS = [
     ],
     "cover": "img/terahub-lateral.jpg",
     "hover": "img/terahub-atrio.webp",
-    "heroPos": "50% 42%",
+    "heroPos": "36% 53%",
     "lead": "O futuro dos edifícios corporativos não será definido pela tecnologia que eles abrigam, mas pela forma como fazem as pessoas se sentirem.",
     "text": [
       "Durante muito tempo, os edifícios corporativos foram pensados para atender às necessidades das empresas. Neste projeto, decidimos inverter essa lógica. A tecnologia continua sendo protagonista, mas trabalha em silêncio — o verdadeiro centro do projeto são as pessoas.",
