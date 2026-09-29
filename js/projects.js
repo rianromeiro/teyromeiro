@@ -219,15 +219,15 @@ window.PROJECTS = [
     ],
     "gallery": [
       {
+        "src": "img/uploads/render-final-03-editado-02d224c0.webp",
+        "alt": ""
+      },
+      {
         "src": "img/uploads/render-final-02-editado-c1f2086d.webp",
         "alt": ""
       },
       {
         "src": "img/uploads/capa-679cdd89.webp",
-        "alt": ""
-      },
-      {
-        "src": "img/uploads/render-final-03-editado-02d224c0.webp",
         "alt": ""
       },
       {
